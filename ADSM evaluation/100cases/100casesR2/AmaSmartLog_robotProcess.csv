@@ -1,0 +1,458 @@
+Case Id,Start Timestamp,End Timesstamp,Event Name,Event Type,Subjec Group,Subject Id,Object Group,Object Id,Event Id
+50RP,2017-12-25 02:36:17,2017-12-25 02:42:17,putdown current shelf,process activity,robot,12r,shelf,-1s,1315
+50RP,2017-12-25 02:43:17,2017-12-25 02:45:17,go to approriate shelf,process activity,robot,12r,shelf,24s,1316
+319RP,2017-12-25 02:44:17,2017-12-25 02:47:17,putdown current shelf,process activity,robot,17r,shelf,-1s,1318
+319RP,2017-12-25 02:47:17,2017-12-25 02:51:17,go to approriate shelf,process activity,robot,17r,shelf,3s,1322
+475RP,2017-12-25 02:54:17,2017-12-25 02:58:17,putdown current shelf,process activity,robot,0r,shelf,-1s,1327
+319RP,2017-12-25 02:53:17,2017-12-25 02:59:17,move shelf to dock,process activity,robot,17r,shelf,3s,1326
+475RP,2017-12-25 02:58:17,2017-12-25 03:09:17,go to approriate shelf,process activity,robot,0r,shelf,35s,1330
+319RP,2017-12-25 03:06:17,2017-12-25 03:12:17,move shelf from dock,process activity,robot,17r,shelf,3s,1336
+562RP,2017-12-25 03:08:17,2017-12-25 03:12:17,putdown current shelf,process activity,robot,6r,shelf,-1s,1340
+567RP,2017-12-25 03:15:17,2017-12-25 03:16:17,putdown current shelf,process activity,robot,14r,shelf,-1s,1348
+50RP,2017-12-25 03:01:17,2017-12-25 03:17:17,reduce speed,process activity,robot,12r,shelf,24s,1332
+50RP,2017-12-25 02:46:17,2017-12-25 03:17:17,move shelf to dock,process activity,robot,12r,shelf,24s,1320
+562RP,2017-12-25 03:12:17,2017-12-25 03:20:17,go to approriate shelf,process activity,robot,6r,shelf,8s,1345
+272RP,2017-12-25 03:19:17,2017-12-25 03:22:17,putdown current shelf,process activity,robot,23r,shelf,-1s,1354
+272RP,2017-12-25 03:25:17,2017-12-25 03:28:17,go to approriate shelf,process activity,robot,23r,shelf,13s,1365
+358RP,2017-12-25 03:25:17,2017-12-25 03:28:17,putdown current shelf,process activity,robot,9r,shelf,-1s,1366
+475RP,2017-12-25 03:23:17,2017-12-25 03:29:17,reduce speed,process activity,robot,0r,shelf,35s,1362
+475RP,2017-12-25 03:11:17,2017-12-25 03:29:17,move shelf to dock,process activity,robot,0r,shelf,35s,1343
+562RP,2017-12-25 03:25:17,2017-12-25 03:32:17,reduce speed,process activity,robot,6r,shelf,8s,1367
+562RP,2017-12-25 03:21:17,2017-12-25 03:32:17,move shelf to dock,process activity,robot,6r,shelf,8s,1359
+567RP,2017-12-25 03:17:17,2017-12-25 03:35:17,go to approriate shelf,process activity,robot,14r,shelf,28s,1352
+582RP,2017-12-25 03:29:17,2017-12-25 03:37:17,putdown current shelf,process activity,robot,11r,shelf,-1s,1374
+378RP,2017-12-25 03:36:17,2017-12-25 03:39:17,putdown current shelf,process activity,robot,2r,shelf,-1s,1381
+50RP,2017-12-25 03:26:17,2017-12-25 03:39:17,move shelf from dock,process activity,robot,12r,shelf,24s,1368
+358RP,2017-12-25 03:28:17,2017-12-25 03:43:17,go to approriate shelf,process activity,robot,9r,shelf,29s,1373
+272RP,2017-12-25 03:42:17,2017-12-25 03:48:17,reduce speed,process activity,robot,23r,shelf,13s,1392
+272RP,2017-12-25 03:38:17,2017-12-25 03:48:17,move shelf to dock,process activity,robot,23r,shelf,13s,1386
+582RP,2017-12-25 03:39:17,2017-12-25 03:51:17,go to approriate shelf,process activity,robot,11r,shelf,1s,1387
+475RP,2017-12-25 03:37:17,2017-12-25 03:54:17,move shelf from dock,process activity,robot,0r,shelf,35s,1384
+378RP,2017-12-25 03:43:17,2017-12-25 03:56:17,go to approriate shelf,process activity,robot,2r,shelf,24s,1393
+567RP,2017-12-25 03:48:17,2017-12-25 04:01:17,move shelf to dock,process activity,robot,14r,shelf,28s,1399
+562RP,2017-12-25 03:47:17,2017-12-25 04:03:17,move shelf from dock,process activity,robot,6r,shelf,8s,1398
+358RP,2017-12-25 03:59:17,2017-12-25 04:04:17,reduce speed,process activity,robot,9r,shelf,29s,1414
+358RP,2017-12-25 03:46:17,2017-12-25 04:04:17,move shelf to dock,process activity,robot,9r,shelf,29s,1396
+272RP,2017-12-25 03:56:17,2017-12-25 04:06:17,move shelf from dock,process activity,robot,23r,shelf,13s,1409
+681RP,2017-12-25 03:54:17,2017-12-25 04:06:17,putdown current shelf,process activity,robot,5r,shelf,-1s,1407
+485RP,2017-12-25 04:05:17,2017-12-25 04:06:17,putdown current shelf,process activity,robot,13r,shelf,-1s,1425
+219RP,2017-12-25 04:00:17,2017-12-25 04:06:17,putdown current shelf,process activity,robot,1r,shelf,-1s,1415
+567RP,2017-12-25 04:09:17,2017-12-25 04:13:17,move shelf from dock,process activity,robot,14r,shelf,28s,1432
+582RP,2017-12-25 04:11:17,2017-12-25 04:16:17,reduce speed,process activity,robot,11r,shelf,1s,1435
+582RP,2017-12-25 03:53:17,2017-12-25 04:16:17,move shelf to dock,process activity,robot,11r,shelf,1s,1406
+219RP,2017-12-25 04:11:17,2017-12-25 04:17:17,go to approriate shelf,process activity,robot,1r,shelf,18s,1436
+487RP,2017-12-25 04:15:17,2017-12-25 04:19:17,putdown current shelf,process activity,robot,24r,shelf,-1s,1445
+358RP,2017-12-25 04:13:17,2017-12-25 04:24:17,move shelf from dock,process activity,robot,9r,shelf,29s,1441
+485RP,2017-12-25 04:06:17,2017-12-25 04:24:17,go to approriate shelf,process activity,robot,13r,shelf,35s,1428
+487RP,2017-12-25 04:23:17,2017-12-25 04:27:17,go to approriate shelf,process activity,robot,24r,shelf,25s,1458
+681RP,2017-12-25 04:12:17,2017-12-25 04:28:17,go to approriate shelf,process activity,robot,5r,shelf,36s,1438
+378RP,2017-12-25 04:14:17,2017-12-25 04:30:17,reduce speed,process activity,robot,2r,shelf,24s,1442
+378RP,2017-12-25 03:58:17,2017-12-25 04:30:17,move shelf to dock,process activity,robot,2r,shelf,24s,1412
+404RP,2017-12-25 04:21:17,2017-12-25 04:32:17,putdown current shelf,process activity,robot,21r,shelf,-1s,1455
+681RP,2017-12-25 04:30:17,2017-12-25 04:33:17,move shelf to dock,process activity,robot,5r,shelf,36s,1467
+668RP,2017-12-25 04:27:17,2017-12-25 04:35:17,putdown current shelf,process activity,robot,22r,shelf,-1s,1464
+219RP,2017-12-25 04:18:17,2017-12-25 04:36:17,move shelf to dock,process activity,robot,1r,shelf,18s,1450
+485RP,2017-12-25 04:26:17,2017-12-25 04:37:17,move shelf to dock,process activity,robot,13r,shelf,35s,1461
+582RP,2017-12-25 04:23:17,2017-12-25 04:40:17,move shelf from dock,process activity,robot,11r,shelf,1s,1457
+404RP,2017-12-25 04:33:17,2017-12-25 04:44:17,go to approriate shelf,process activity,robot,21r,shelf,2s,1471
+668RP,2017-12-25 04:36:17,2017-12-25 04:49:17,go to approriate shelf,process activity,robot,22r,shelf,23s,1475
+393RP,2017-12-25 04:44:17,2017-12-25 04:53:17,putdown current shelf,process activity,robot,0r,shelf,35s,1490
+379RP,2017-12-25 04:46:17,2017-12-25 04:57:17,putdown current shelf,process activity,robot,7r,shelf,-1s,1493
+393RP,2017-12-25 04:54:17,2017-12-25 04:58:17,go to approriate shelf,process activity,robot,0r,shelf,21s,1504
+756RP,2017-12-25 04:55:17,2017-12-25 04:58:17,putdown current shelf,process activity,robot,10r,shelf,-1s,1506
+681RP,2017-12-25 04:49:17,2017-12-25 05:01:17,move shelf from dock,process activity,robot,5r,shelf,36s,1496
+767RP,2017-12-25 04:54:17,2017-12-25 05:03:17,putdown current shelf,process activity,robot,3r,shelf,-1s,1505
+404RP,2017-12-25 04:46:17,2017-12-25 05:04:17,move shelf to dock,process activity,robot,21r,shelf,2s,1492
+756RP,2017-12-25 04:59:17,2017-12-25 05:07:17,go to approriate shelf,process activity,robot,10r,shelf,12s,1515
+157RP,2017-12-25 04:55:17,2017-12-25 05:10:17,putdown current shelf,process activity,robot,19r,shelf,-1s,1508
+378RP,2017-12-25 05:00:17,2017-12-25 05:11:17,move shelf from dock,process activity,robot,2r,shelf,24s,1518
+219RP,2017-12-25 04:56:17,2017-12-25 05:11:17,move shelf from dock,process activity,robot,1r,shelf,18s,1509
+393RP,2017-12-25 05:00:17,2017-12-25 05:11:17,move shelf to dock,process activity,robot,0r,shelf,21s,1517
+487RP,2017-12-25 04:51:17,2017-12-25 05:13:17,reduce speed,process activity,robot,24r,shelf,25s,1499
+487RP,2017-12-25 04:37:17,2017-12-25 05:13:17,move shelf to dock,process activity,robot,24r,shelf,25s,1477
+767RP,2017-12-25 05:10:17,2017-12-25 05:16:17,go to approriate shelf,process activity,robot,3r,shelf,15s,1532
+379RP,2017-12-25 05:01:17,2017-12-25 05:19:17,go to approriate shelf,process activity,robot,7r,shelf,17s,1520
+355RP,2017-12-25 05:09:17,2017-12-25 05:19:17,putdown current shelf,process activity,robot,14r,shelf,28s,1531
+668RP,2017-12-25 05:06:17,2017-12-25 05:24:17,reduce speed,process activity,robot,22r,shelf,23s,1525
+668RP,2017-12-25 04:51:17,2017-12-25 05:25:17,move shelf to dock,process activity,robot,22r,shelf,23s,1498
+485RP,2017-12-25 05:03:17,2017-12-25 05:27:17,move shelf from dock,process activity,robot,13r,shelf,35s,1522
+157RP,2017-12-25 05:11:17,2017-12-25 05:27:17,go to approriate shelf,process activity,robot,19r,shelf,32s,1534
+756RP,2017-12-25 05:09:17,2017-12-25 05:29:17,move shelf to dock,process activity,robot,10r,shelf,12s,1529
+404RP,2017-12-25 05:18:17,2017-12-25 05:31:17,move shelf from dock,process activity,robot,21r,shelf,2s,1541
+393RP,2017-12-25 05:24:17,2017-12-25 05:35:17,move shelf from dock,process activity,robot,0r,shelf,21s,1551
+355RP,2017-12-25 05:20:17,2017-12-25 05:36:17,go to approriate shelf,process activity,robot,14r,shelf,16s,1543
+767RP,2017-12-25 05:43:17,2017-12-25 05:48:17,reduce speed,process activity,robot,3r,shelf,15s,1579
+767RP,2017-12-25 05:27:17,2017-12-25 05:48:17,move shelf to dock,process activity,robot,3r,shelf,15s,1556
+487RP,2017-12-25 05:34:17,2017-12-25 05:50:17,move shelf from dock,process activity,robot,24r,shelf,25s,1565
+668RP,2017-12-25 05:43:17,2017-12-25 05:50:17,move shelf from dock,process activity,robot,22r,shelf,23s,1580
+157RP,2017-12-25 05:45:17,2017-12-25 05:51:17,reduce speed,process activity,robot,19r,shelf,32s,1582
+157RP,2017-12-25 05:29:17,2017-12-25 05:51:17,move shelf to dock,process activity,robot,19r,shelf,32s,1560
+379RP,2017-12-25 05:41:17,2017-12-25 05:54:17,reduce speed,process activity,robot,7r,shelf,17s,1577
+379RP,2017-12-25 05:26:17,2017-12-25 05:54:17,move shelf to dock,process activity,robot,7r,shelf,17s,1554
+756RP,2017-12-25 05:40:17,2017-12-25 05:57:17,move shelf from dock,process activity,robot,10r,shelf,12s,1576
+605RP,2017-12-25 05:53:17,2017-12-25 05:59:17,putdown current shelf,process activity,robot,15r,shelf,-1s,1593
+355RP,2017-12-25 05:46:17,2017-12-25 06:05:17,reduce speed,process activity,robot,14r,shelf,16s,1584
+355RP,2017-12-25 05:38:17,2017-12-25 06:05:17,move shelf to dock,process activity,robot,14r,shelf,16s,1574
+758RP,2017-12-25 05:59:17,2017-12-25 06:06:17,putdown current shelf,process activity,robot,4r,shelf,-1s,1601
+379RP,2017-12-25 06:05:17,2017-12-25 06:07:17,move shelf from dock,process activity,robot,7r,shelf,17s,1609
+157RP,2017-12-25 06:07:17,2017-12-25 06:09:17,move shelf from dock,process activity,robot,19r,shelf,32s,1614
+767RP,2017-12-25 05:57:17,2017-12-25 06:12:17,move shelf from dock,process activity,robot,3r,shelf,15s,1597
+758RP,2017-12-25 06:06:17,2017-12-25 06:13:17,go to approriate shelf,process activity,robot,4r,shelf,0s,1612
+605RP,2017-12-25 06:00:17,2017-12-25 06:15:17,go to approriate shelf,process activity,robot,15r,shelf,23s,1604
+355RP,2017-12-25 06:11:17,2017-12-25 06:27:17,move shelf from dock,process activity,robot,14r,shelf,16s,1618
+323RP,2017-12-25 06:25:17,2017-12-25 06:27:17,putdown current shelf,process activity,robot,17r,shelf,3s,1628
+323RP,2017-12-25 06:28:17,2017-12-25 06:30:17,go to approriate shelf,process activity,robot,17r,shelf,24s,1633
+574RP,2017-12-25 06:27:17,2017-12-25 06:34:17,putdown current shelf,process activity,robot,20r,shelf,-1s,1631
+706RP,2017-12-25 06:27:17,2017-12-25 06:35:17,putdown current shelf,process activity,robot,12r,shelf,24s,1632
+488RP,2017-12-25 06:33:17,2017-12-25 06:35:17,putdown current shelf,process activity,robot,16r,shelf,-1s,1639
+758RP,2017-12-25 06:23:17,2017-12-25 06:36:17,reduce speed,process activity,robot,4r,shelf,0s,1625
+758RP,2017-12-25 06:14:17,2017-12-25 06:36:17,move shelf to dock,process activity,robot,4r,shelf,0s,1620
+605RP,2017-12-25 06:32:17,2017-12-25 06:37:17,reduce speed,process activity,robot,15r,shelf,23s,1637
+605RP,2017-12-25 06:17:17,2017-12-25 06:37:17,move shelf to dock,process activity,robot,15r,shelf,23s,1622
+488RP,2017-12-25 06:36:17,2017-12-25 06:39:17,go to approriate shelf,process activity,robot,16r,shelf,36s,1645
+706RP,2017-12-25 06:35:17,2017-12-25 06:42:17,go to approriate shelf,process activity,robot,12r,shelf,25s,1643
+574RP,2017-12-25 06:35:17,2017-12-25 06:51:17,go to approriate shelf,process activity,robot,20r,shelf,2s,1642
+758RP,2017-12-25 06:46:17,2017-12-25 06:57:17,move shelf from dock,process activity,robot,4r,shelf,0s,1657
+605RP,2017-12-25 06:51:17,2017-12-25 06:57:17,move shelf from dock,process activity,robot,15r,shelf,23s,1666
+323RP,2017-12-25 06:47:17,2017-12-25 06:59:17,reduce speed,process activity,robot,17r,shelf,24s,1659
+323RP,2017-12-25 06:32:17,2017-12-25 06:59:17,move shelf to dock,process activity,robot,17r,shelf,24s,1636
+574RP,2017-12-25 07:00:17,2017-12-25 07:03:17,reduce speed,process activity,robot,20r,shelf,2s,1678
+574RP,2017-12-25 06:52:17,2017-12-25 07:03:17,move shelf to dock,process activity,robot,20r,shelf,2s,1668
+516RP,2017-12-25 06:49:17,2017-12-25 07:06:17,move shelf to dock,process activity,robot,10r,shelf,12s,1663
+706RP,2017-12-25 06:56:17,2017-12-25 07:07:17,reduce speed,process activity,robot,12r,shelf,25s,1675
+706RP,2017-12-25 06:44:17,2017-12-25 07:07:17,move shelf to dock,process activity,robot,12r,shelf,25s,1655
+488RP,2017-12-25 06:56:17,2017-12-25 07:11:17,reduce speed,process activity,robot,16r,shelf,36s,1674
+488RP,2017-12-25 06:41:17,2017-12-25 07:11:17,move shelf to dock,process activity,robot,16r,shelf,36s,1650
+323RP,2017-12-25 07:05:17,2017-12-25 07:20:17,move shelf from dock,process activity,robot,17r,shelf,24s,1684
+574RP,2017-12-25 07:13:17,2017-12-25 07:21:17,move shelf from dock,process activity,robot,20r,shelf,2s,1694
+674RP,2017-12-25 07:15:17,2017-12-25 07:23:17,putdown current shelf,process activity,robot,9r,shelf,29s,1698
+516RP,2017-12-25 07:18:17,2017-12-25 07:26:17,move shelf from dock,process activity,robot,10r,shelf,12s,1702
+488RP,2017-12-25 07:23:17,2017-12-25 07:28:17,move shelf from dock,process activity,robot,16r,shelf,36s,1709
+674RP,2017-12-25 07:24:17,2017-12-25 07:30:17,go to approriate shelf,process activity,robot,9r,shelf,33s,1710
+674RP,2017-12-25 07:32:17,2017-12-25 07:35:17,move shelf to dock,process activity,robot,9r,shelf,33s,1717
+706RP,2017-12-25 07:21:17,2017-12-25 07:37:17,move shelf from dock,process activity,robot,12r,shelf,25s,1707
+400RP,2017-12-25 07:42:17,2017-12-25 07:45:17,putdown current shelf,process activity,robot,11r,shelf,1s,1725
+400RP,2017-12-25 07:46:17,2017-12-25 07:48:17,go to approriate shelf,process activity,robot,11r,shelf,9s,1730
+791RP,2017-12-25 07:44:17,2017-12-25 07:50:17,putdown current shelf,process activity,robot,5r,shelf,36s,1728
+674RP,2017-12-25 07:39:17,2017-12-25 07:50:17,move shelf from dock,process activity,robot,9r,shelf,33s,1722
+791RP,2017-12-25 07:50:17,2017-12-25 07:57:17,go to approriate shelf,process activity,robot,5r,shelf,13s,1733
+791RP,2017-12-25 07:59:17,2017-12-25 08:06:17,move shelf to dock,process activity,robot,5r,shelf,13s,1737
+400RP,2017-12-25 08:04:17,2017-12-25 08:14:17,reduce speed,process activity,robot,11r,shelf,9s,1738
+400RP,2017-12-25 07:50:17,2017-12-25 08:14:17,move shelf to dock,process activity,robot,11r,shelf,9s,1732
+791RP,2017-12-25 08:13:17,2017-12-25 08:25:17,move shelf from dock,process activity,robot,5r,shelf,13s,1746
+400RP,2017-12-25 08:19:17,2017-12-25 08:32:17,move shelf from dock,process activity,robot,11r,shelf,9s,1752
+105RP,2017-12-25 08:37:17,2017-12-25 08:39:17,putdown current shelf,process activity,robot,21r,shelf,2s,1764
+588RP,2017-12-25 08:35:17,2017-12-25 08:42:17,putdown current shelf,process activity,robot,13r,shelf,35s,1762
+588RP,2017-12-25 08:43:17,2017-12-25 08:54:17,go to approriate shelf,process activity,robot,13r,shelf,37s,1766
+105RP,2017-12-25 08:40:17,2017-12-25 08:56:17,go to approriate shelf,process activity,robot,21r,shelf,29s,1765
+389RP,2017-12-25 09:03:17,2017-12-25 09:06:17,putdown current shelf,process activity,robot,24r,shelf,25s,1778
+588RP,2017-12-25 09:09:17,2017-12-25 09:11:17,reduce speed,process activity,robot,13r,shelf,37s,1786
+588RP,2017-12-25 08:56:17,2017-12-25 09:11:17,move shelf to dock,process activity,robot,13r,shelf,37s,1773
+14RP,2017-12-25 09:06:17,2017-12-25 09:21:17,putdown current shelf,process activity,robot,18r,shelf,-1s,1780
+634RP,2017-12-25 09:08:17,2017-12-25 09:23:17,putdown current shelf,process activity,robot,23r,shelf,13s,1785
+389RP,2017-12-25 09:07:17,2017-12-25 09:23:17,go to approriate shelf,process activity,robot,24r,shelf,10s,1781
+105RP,2017-12-25 09:10:17,2017-12-25 09:25:17,reduce speed,process activity,robot,21r,shelf,29s,1787
+105RP,2017-12-25 08:58:17,2017-12-25 09:25:17,move shelf to dock,process activity,robot,21r,shelf,29s,1775
+14RP,2017-12-25 09:22:17,2017-12-25 09:25:17,go to approriate shelf,process activity,robot,18r,shelf,32s,1790
+634RP,2017-12-25 09:23:17,2017-12-25 09:35:17,go to approriate shelf,process activity,robot,23r,shelf,15s,1793
+389RP,2017-12-25 09:40:17,2017-12-25 09:46:17,reduce speed,process activity,robot,24r,shelf,10s,1815
+389RP,2017-12-25 09:25:17,2017-12-25 09:46:17,move shelf to dock,process activity,robot,24r,shelf,10s,1795
+588RP,2017-12-25 09:33:17,2017-12-25 09:48:17,move shelf from dock,process activity,robot,13r,shelf,37s,1806
+736RP,2017-12-25 09:44:17,2017-12-25 09:51:17,putdown current shelf,process activity,robot,3r,shelf,15s,1819
+105RP,2017-12-25 09:35:17,2017-12-25 09:51:17,move shelf from dock,process activity,robot,21r,shelf,29s,1808
+14RP,2017-12-25 09:40:17,2017-12-25 09:52:17,reduce speed,process activity,robot,18r,shelf,32s,1816
+14RP,2017-12-25 09:27:17,2017-12-25 09:52:17,move shelf to dock,process activity,robot,18r,shelf,32s,1797
+431RP,2017-12-25 09:54:17,2017-12-25 10:00:17,putdown current shelf,process activity,robot,2r,shelf,24s,1832
+14RP,2017-12-25 09:58:17,2017-12-25 10:01:17,move shelf from dock,process activity,robot,18r,shelf,32s,1837
+139RP,2017-12-25 10:00:17,2017-12-25 10:02:17,move shelf to dock,process activity,robot,22r,shelf,23s,1840
+389RP,2017-12-25 09:51:17,2017-12-25 10:06:17,move shelf from dock,process activity,robot,24r,shelf,10s,1825
+736RP,2017-12-25 09:51:17,2017-12-25 10:06:17,go to approriate shelf,process activity,robot,3r,shelf,14s,1826
+634RP,2017-12-25 09:53:17,2017-12-25 10:08:17,reduce speed,process activity,robot,23r,shelf,15s,1830
+634RP,2017-12-25 09:37:17,2017-12-25 10:08:17,move shelf to dock,process activity,robot,23r,shelf,15s,1811
+431RP,2017-12-25 10:01:17,2017-12-25 10:15:17,go to approriate shelf,process activity,robot,2r,shelf,37s,1841
+736RP,2017-12-25 10:08:17,2017-12-25 10:21:17,move shelf to dock,process activity,robot,3r,shelf,14s,1847
+139RP,2017-12-25 10:14:17,2017-12-25 10:28:17,move shelf from dock,process activity,robot,22r,shelf,23s,1854
+634RP,2017-12-25 10:18:17,2017-12-25 10:33:17,move shelf from dock,process activity,robot,23r,shelf,15s,1860
+431RP,2017-12-25 10:31:17,2017-12-25 10:35:17,reduce speed,process activity,robot,2r,shelf,37s,1867
+431RP,2017-12-25 10:16:17,2017-12-25 10:35:17,move shelf to dock,process activity,robot,2r,shelf,37s,1858
+512RP,2017-12-25 10:34:17,2017-12-25 10:37:17,putdown current shelf,process activity,robot,0r,shelf,21s,1869
+736RP,2017-12-25 10:26:17,2017-12-25 10:42:17,move shelf from dock,process activity,robot,3r,shelf,14s,1866
+414RP,2017-12-25 10:35:17,2017-12-25 10:42:17,putdown current shelf,process activity,robot,8r,shelf,-1s,1872
+431RP,2017-12-25 10:42:17,2017-12-25 10:47:17,move shelf from dock,process activity,robot,2r,shelf,37s,1878
+512RP,2017-12-25 10:38:17,2017-12-25 10:51:17,go to approriate shelf,process activity,robot,0r,shelf,36s,1874
+414RP,2017-12-25 10:43:17,2017-12-25 10:58:17,go to approriate shelf,process activity,robot,8r,shelf,25s,1879
+512RP,2017-12-25 10:57:17,2017-12-25 11:01:17,reduce speed,process activity,robot,0r,shelf,36s,1884
+512RP,2017-12-25 10:52:17,2017-12-25 11:01:17,move shelf to dock,process activity,robot,0r,shelf,36s,1882
+414RP,2017-12-25 11:07:17,2017-12-25 11:21:17,reduce speed,process activity,robot,8r,shelf,25s,1896
+414RP,2017-12-25 10:59:17,2017-12-25 11:21:17,move shelf to dock,process activity,robot,8r,shelf,25s,1887
+512RP,2017-12-25 11:09:17,2017-12-25 11:23:17,move shelf from dock,process activity,robot,0r,shelf,36s,1899
+414RP,2017-12-25 11:28:17,2017-12-25 11:39:17,move shelf from dock,process activity,robot,8r,shelf,25s,1911
+31RP,2017-12-25 11:44:17,2017-12-25 11:46:17,putdown current shelf,process activity,robot,15r,shelf,23s,1920
+768RP,2017-12-25 11:47:17,2017-12-25 11:52:17,putdown current shelf,process activity,robot,20r,shelf,2s,1923
+31RP,2017-12-25 11:46:17,2017-12-25 12:01:17,go to approriate shelf,process activity,robot,15r,shelf,35s,1922
+768RP,2017-12-25 11:52:17,2017-12-25 12:06:17,go to approriate shelf,process activity,robot,20r,shelf,13s,1928
+317RP,2017-12-25 12:01:17,2017-12-25 12:10:17,putdown current shelf,process activity,robot,10r,shelf,12s,1931
+31RP,2017-12-25 12:09:17,2017-12-25 12:12:17,reduce speed,process activity,robot,15r,shelf,35s,1938
+31RP,2017-12-25 12:03:17,2017-12-25 12:12:17,move shelf to dock,process activity,robot,15r,shelf,35s,1933
+317RP,2017-12-25 12:10:17,2017-12-25 12:25:17,go to approriate shelf,process activity,robot,10r,shelf,17s,1940
+31RP,2017-12-25 12:17:17,2017-12-25 12:28:17,move shelf from dock,process activity,robot,15r,shelf,35s,1950
+244RP,2017-12-25 12:28:17,2017-12-25 12:31:17,putdown current shelf,process activity,robot,12r,shelf,25s,1955
+768RP,2017-12-25 12:23:17,2017-12-25 12:34:17,reduce speed,process activity,robot,20r,shelf,13s,1951
+768RP,2017-12-25 12:08:17,2017-12-25 12:34:17,move shelf to dock,process activity,robot,20r,shelf,13s,1937
+317RP,2017-12-25 12:42:17,2017-12-25 12:44:17,reduce speed,process activity,robot,10r,shelf,17s,1968
+317RP,2017-12-25 12:27:17,2017-12-25 12:44:17,move shelf to dock,process activity,robot,10r,shelf,17s,1953
+244RP,2017-12-25 12:32:17,2017-12-25 12:47:17,go to approriate shelf,process activity,robot,12r,shelf,27s,1957
+768RP,2017-12-25 12:38:17,2017-12-25 12:52:17,move shelf from dock,process activity,robot,20r,shelf,13s,1967
+532RP,2017-12-25 12:51:17,2017-12-25 12:54:17,putdown current shelf,process activity,robot,16r,shelf,36s,1978
+317RP,2017-12-25 12:53:17,2017-12-25 12:56:17,move shelf from dock,process activity,robot,10r,shelf,17s,1981
+244RP,2017-12-25 13:04:17,2017-12-25 13:06:17,reduce speed,process activity,robot,12r,shelf,27s,1984
+244RP,2017-12-25 12:49:17,2017-12-25 13:06:17,move shelf to dock,process activity,robot,12r,shelf,27s,1972
+532RP,2017-12-25 12:55:17,2017-12-25 13:10:17,go to approriate shelf,process activity,robot,16r,shelf,30s,1982
+532RP,2017-12-25 13:12:17,2017-12-25 13:21:17,move shelf to dock,process activity,robot,16r,shelf,30s,1989
+244RP,2017-12-25 13:14:17,2017-12-25 13:29:17,move shelf from dock,process activity,robot,12r,shelf,27s,1992
+532RP,2017-12-25 13:27:17,2017-12-25 13:37:17,move shelf from dock,process activity,robot,16r,shelf,30s,1998
+438RP,2017-12-25 13:41:17,2017-12-25 13:42:17,putdown current shelf,process activity,robot,11r,shelf,9s,2005
+61RP,2017-12-25 13:50:17,2017-12-25 13:52:17,putdown current shelf,process activity,robot,6r,shelf,8s,2013
+514RP,2017-12-25 13:51:17,2017-12-25 13:53:17,putdown current shelf,process activity,robot,4r,shelf,0s,2014
+644RP,2017-12-25 13:50:17,2017-12-25 13:54:17,putdown current shelf,process activity,robot,19r,shelf,32s,2012
+438RP,2017-12-25 13:43:17,2017-12-25 13:58:17,go to approriate shelf,process activity,robot,11r,shelf,2s,2006
+61RP,2017-12-25 13:53:17,2017-12-25 14:08:17,go to approriate shelf,process activity,robot,6r,shelf,32s,2016
+644RP,2017-12-25 13:54:17,2017-12-25 14:09:17,go to approriate shelf,process activity,robot,19r,shelf,10s,2018
+438RP,2017-12-25 14:00:17,2017-12-25 14:12:17,move shelf to dock,process activity,robot,11r,shelf,2s,2020
+514RP,2017-12-25 13:53:17,2017-12-25 14:13:17,go to approriate shelf,process activity,robot,4r,shelf,23s,2017
+438RP,2017-12-25 14:19:17,2017-12-25 14:34:17,move shelf from dock,process activity,robot,11r,shelf,2s,2038
+61RP,2017-12-25 14:23:17,2017-12-25 14:38:17,reduce speed,process activity,robot,6r,shelf,32s,2039
+61RP,2017-12-25 14:09:17,2017-12-25 14:38:17,move shelf to dock,process activity,robot,6r,shelf,32s,2026
+644RP,2017-12-25 14:27:17,2017-12-25 14:41:17,reduce speed,process activity,robot,19r,shelf,10s,2040
+644RP,2017-12-25 14:11:17,2017-12-25 14:41:17,move shelf to dock,process activity,robot,19r,shelf,10s,2028
+514RP,2017-12-25 14:30:17,2017-12-25 14:46:17,reduce speed,process activity,robot,4r,shelf,23s,2041
+514RP,2017-12-25 14:15:17,2017-12-25 14:46:17,move shelf to dock,process activity,robot,4r,shelf,23s,2031
+514RP,2017-12-25 14:52:17,2017-12-25 14:55:17,move shelf from dock,process activity,robot,4r,shelf,23s,2062
+61RP,2017-12-25 14:44:17,2017-12-25 14:56:17,move shelf from dock,process activity,robot,6r,shelf,32s,2052
+644RP,2017-12-25 14:52:17,2017-12-25 14:56:17,move shelf from dock,process activity,robot,19r,shelf,10s,2061
+546RP,2017-12-25 15:03:17,2017-12-25 15:06:17,putdown current shelf,process activity,robot,18r,shelf,32s,2068
+546RP,2017-12-25 15:06:17,2017-12-25 15:15:17,go to approriate shelf,process activity,robot,18r,shelf,22s,2070
+546RP,2017-12-25 15:17:17,2017-12-25 15:28:17,move shelf to dock,process activity,robot,18r,shelf,22s,2072
+643RP,2017-12-25 15:33:17,2017-12-25 15:39:17,putdown current shelf,process activity,robot,22r,shelf,23s,2081
+546RP,2017-12-25 15:35:17,2017-12-25 15:39:17,move shelf from dock,process activity,robot,18r,shelf,22s,2084
+527RP,2017-12-25 15:45:17,2017-12-25 15:51:17,putdown current shelf,process activity,robot,23r,shelf,15s,2090
+643RP,2017-12-25 15:39:17,2017-12-25 15:53:17,go to approriate shelf,process activity,robot,22r,shelf,4s,2088
+527RP,2017-12-25 15:51:17,2017-12-25 16:04:17,go to approriate shelf,process activity,robot,23r,shelf,29s,2095
+290RP,2017-12-25 16:13:17,2017-12-25 16:14:17,putdown current shelf,process activity,robot,14r,shelf,16s,2111
+453RP,2017-12-25 16:14:17,2017-12-25 16:16:17,putdown current shelf,process activity,robot,24r,shelf,10s,2112
+687RP,2017-12-25 16:11:17,2017-12-25 16:16:17,putdown current shelf,process activity,robot,3r,shelf,14s,2106
+643RP,2017-12-25 16:03:17,2017-12-25 16:17:17,reduce speed,process activity,robot,22r,shelf,4s,2100
+643RP,2017-12-25 15:54:17,2017-12-25 16:17:17,move shelf to dock,process activity,robot,22r,shelf,4s,2097
+527RP,2017-12-25 16:10:17,2017-12-25 16:19:17,reduce speed,process activity,robot,23r,shelf,29s,2105
+527RP,2017-12-25 16:05:17,2017-12-25 16:19:17,move shelf to dock,process activity,robot,23r,shelf,29s,2102
+290RP,2017-12-25 16:15:17,2017-12-25 16:21:17,go to approriate shelf,process activity,robot,14r,shelf,35s,2113
+453RP,2017-12-25 16:16:17,2017-12-25 16:25:17,go to approriate shelf,process activity,robot,24r,shelf,17s,2114
+687RP,2017-12-25 16:17:17,2017-12-25 16:29:17,go to approriate shelf,process activity,robot,3r,shelf,39s,2115
+34RP,2017-12-25 16:26:17,2017-12-25 16:31:17,putdown current shelf,process activity,robot,2r,shelf,37s,2128
+34RP,2017-12-25 16:31:17,2017-12-25 16:33:17,go to approriate shelf,process activity,robot,2r,shelf,11s,2136
+527RP,2017-12-25 16:27:17,2017-12-25 16:36:17,move shelf from dock,process activity,robot,23r,shelf,29s,2130
+643RP,2017-12-25 16:29:17,2017-12-25 16:37:17,move shelf from dock,process activity,robot,22r,shelf,4s,2133
+34RP,2017-12-25 16:35:17,2017-12-25 16:40:17,move shelf to dock,process activity,robot,2r,shelf,11s,2139
+453RP,2017-12-25 16:40:17,2017-12-25 16:46:17,reduce speed,process activity,robot,24r,shelf,17s,2145
+453RP,2017-12-25 16:26:17,2017-12-25 16:47:17,move shelf to dock,process activity,robot,24r,shelf,17s,2127
+290RP,2017-12-25 16:32:17,2017-12-25 16:48:17,reduce speed,process activity,robot,14r,shelf,35s,2137
+290RP,2017-12-25 16:23:17,2017-12-25 16:48:17,move shelf to dock,process activity,robot,14r,shelf,35s,2122
+687RP,2017-12-25 16:40:17,2017-12-25 16:51:17,reduce speed,process activity,robot,3r,shelf,39s,2146
+687RP,2017-12-25 16:31:17,2017-12-25 16:51:17,move shelf to dock,process activity,robot,3r,shelf,39s,2135
+34RP,2017-12-25 16:46:17,2017-12-25 16:53:17,move shelf from dock,process activity,robot,2r,shelf,11s,2151
+290RP,2017-12-25 17:01:17,2017-12-25 17:10:17,move shelf from dock,process activity,robot,14r,shelf,35s,2171
+453RP,2017-12-25 16:55:17,2017-12-25 17:10:17,move shelf from dock,process activity,robot,24r,shelf,17s,2162
+687RP,2017-12-25 17:00:17,2017-12-25 17:15:17,move shelf from dock,process activity,robot,3r,shelf,39s,2168
+613RP,2017-12-25 17:29:17,2017-12-25 17:33:17,putdown current shelf,process activity,robot,23r,shelf,29s,2179
+613RP,2017-12-25 17:33:17,2017-12-25 17:42:17,go to approriate shelf,process activity,robot,23r,shelf,14s,2180
+217RP,2017-12-25 17:57:17,2017-12-25 18:00:17,putdown current shelf,process activity,robot,8r,shelf,25s,2190
+613RP,2017-12-25 17:59:17,2017-12-25 18:08:17,reduce speed,process activity,robot,23r,shelf,14s,2191
+613RP,2017-12-25 17:43:17,2017-12-25 18:08:17,move shelf to dock,process activity,robot,23r,shelf,14s,2186
+217RP,2017-12-25 18:01:17,2017-12-25 18:16:17,go to approriate shelf,process activity,robot,8r,shelf,29s,2193
+613RP,2017-12-25 18:13:17,2017-12-25 18:17:17,move shelf from dock,process activity,robot,23r,shelf,14s,2201
+217RP,2017-12-25 18:17:17,2017-12-25 18:28:17,move shelf to dock,process activity,robot,8r,shelf,29s,2203
+217RP,2017-12-25 18:32:17,2017-12-25 18:45:17,move shelf from dock,process activity,robot,8r,shelf,29s,2211
+115RP,2017-12-25 19:15:17,2017-12-25 19:17:17,putdown current shelf,process activity,robot,7r,shelf,17s,2223
+115RP,2017-12-25 19:18:17,2017-12-25 19:20:17,go to approriate shelf,process activity,robot,7r,shelf,23s,2228
+636RP,2017-12-25 19:16:17,2017-12-25 19:22:17,putdown current shelf,process activity,robot,1r,shelf,18s,2224
+42RP,2017-12-25 19:17:17,2017-12-25 19:22:17,putdown current shelf,process activity,robot,17r,shelf,24s,2227
+42RP,2017-12-25 19:23:17,2017-12-25 19:25:17,go to approriate shelf,process activity,robot,17r,shelf,22s,2232
+636RP,2017-12-25 19:22:17,2017-12-25 19:27:17,go to approriate shelf,process activity,robot,1r,shelf,32s,2231
+115RP,2017-12-25 19:22:17,2017-12-25 19:29:17,move shelf to dock,process activity,robot,7r,shelf,23s,2230
+580RP,2017-12-25 19:24:17,2017-12-25 19:33:17,putdown current shelf,process activity,robot,12r,shelf,27s,2234
+42RP,2017-12-25 19:34:17,2017-12-25 19:39:17,reduce speed,process activity,robot,17r,shelf,22s,2246
+42RP,2017-12-25 19:27:17,2017-12-25 19:39:17,move shelf to dock,process activity,robot,17r,shelf,22s,2237
+580RP,2017-12-25 19:34:17,2017-12-25 19:43:17,go to approriate shelf,process activity,robot,12r,shelf,20s,2244
+115RP,2017-12-25 19:33:17,2017-12-25 19:49:17,move shelf from dock,process activity,robot,7r,shelf,23s,2243
+636RP,2017-12-25 19:45:17,2017-12-25 19:58:17,reduce speed,process activity,robot,1r,shelf,32s,2257
+636RP,2017-12-25 19:29:17,2017-12-25 19:58:17,move shelf to dock,process activity,robot,1r,shelf,32s,2239
+42RP,2017-12-25 19:49:17,2017-12-25 20:04:17,move shelf from dock,process activity,robot,17r,shelf,22s,2259
+580RP,2017-12-25 19:52:17,2017-12-25 20:04:17,reduce speed,process activity,robot,12r,shelf,20s,2262
+580RP,2017-12-25 19:44:17,2017-12-25 20:04:17,move shelf to dock,process activity,robot,12r,shelf,20s,2256
+443RP,2017-12-25 20:02:17,2017-12-25 20:10:17,putdown current shelf,process activity,robot,11r,shelf,2s,2271
+636RP,2017-12-25 20:04:17,2017-12-25 20:15:17,move shelf from dock,process activity,robot,1r,shelf,32s,2273
+420RP,2017-12-25 20:17:17,2017-12-25 20:19:17,putdown current shelf,process activity,robot,6r,shelf,32s,2287
+502RP,2017-12-25 20:18:17,2017-12-25 20:20:17,putdown current shelf,process activity,robot,19r,shelf,10s,2289
+580RP,2017-12-25 20:10:17,2017-12-25 20:22:17,move shelf from dock,process activity,robot,12r,shelf,20s,2279
+443RP,2017-12-25 20:10:17,2017-12-25 20:23:17,go to approriate shelf,process activity,robot,11r,shelf,21s,2280
+502RP,2017-12-25 20:21:17,2017-12-25 20:30:17,go to approriate shelf,process activity,robot,19r,shelf,15s,2291
+443RP,2017-12-25 20:32:17,2017-12-25 20:34:17,reduce speed,process activity,robot,11r,shelf,21s,2301
+443RP,2017-12-25 20:24:17,2017-12-25 20:34:17,move shelf to dock,process activity,robot,11r,shelf,21s,2293
+420RP,2017-12-25 20:20:17,2017-12-25 20:36:17,go to approriate shelf,process activity,robot,6r,shelf,26s,2290
+502RP,2017-12-25 20:45:17,2017-12-25 20:50:17,reduce speed,process activity,robot,19r,shelf,15s,2312
+502RP,2017-12-25 20:32:17,2017-12-25 20:50:17,move shelf to dock,process activity,robot,19r,shelf,15s,2300
+369RP,2017-12-25 20:49:17,2017-12-25 20:52:17,putdown current shelf,process activity,robot,10r,shelf,17s,2315
+443RP,2017-12-25 20:44:17,2017-12-25 20:55:17,move shelf from dock,process activity,robot,11r,shelf,21s,2311
+325RP,2017-12-25 20:54:17,2017-12-25 20:58:17,putdown current shelf,process activity,robot,4r,shelf,23s,2323
+420RP,2017-12-25 20:47:17,2017-12-25 21:02:17,reduce speed,process activity,robot,6r,shelf,26s,2313
+420RP,2017-12-25 20:39:17,2017-12-25 21:02:17,move shelf to dock,process activity,robot,6r,shelf,26s,2307
+369RP,2017-12-25 20:53:17,2017-12-25 21:08:17,go to approriate shelf,process activity,robot,10r,shelf,29s,2320
+502RP,2017-12-25 20:55:17,2017-12-25 21:10:17,move shelf from dock,process activity,robot,19r,shelf,15s,2325
+369RP,2017-12-25 21:09:17,2017-12-25 21:13:17,move shelf to dock,process activity,robot,10r,shelf,29s,2334
+325RP,2017-12-25 20:59:17,2017-12-25 21:15:17,go to approriate shelf,process activity,robot,4r,shelf,14s,2326
+420RP,2017-12-25 21:08:17,2017-12-25 21:23:17,move shelf from dock,process activity,robot,6r,shelf,26s,2332
+369RP,2017-12-25 21:21:17,2017-12-25 21:34:17,move shelf from dock,process activity,robot,10r,shelf,29s,2346
+189RP,2017-12-25 21:38:17,2017-12-25 21:39:17,putdown current shelf,process activity,robot,22r,shelf,4s,2353
+325RP,2017-12-25 21:28:17,2017-12-25 21:42:17,reduce speed,process activity,robot,4r,shelf,14s,2348
+325RP,2017-12-25 21:17:17,2017-12-25 21:42:17,move shelf to dock,process activity,robot,4r,shelf,14s,2344
+189RP,2017-12-25 21:40:17,2017-12-25 21:46:17,go to approriate shelf,process activity,robot,22r,shelf,28s,2355
+325RP,2017-12-25 21:50:17,2017-12-25 21:54:17,move shelf from dock,process activity,robot,4r,shelf,14s,2365
+189RP,2017-12-25 21:51:17,2017-12-25 21:59:17,move shelf to dock,process activity,robot,22r,shelf,28s,2366
+305RP,2017-12-25 22:11:17,2017-12-25 22:17:17,putdown current shelf,process activity,robot,24r,shelf,17s,2376
+189RP,2017-12-25 22:03:17,2017-12-25 22:18:17,move shelf from dock,process activity,robot,22r,shelf,28s,2371
+305RP,2017-12-25 22:18:17,2017-12-25 22:25:17,go to approriate shelf,process activity,robot,24r,shelf,38s,2378
+522RP,2017-12-25 22:43:17,2017-12-25 22:44:17,putdown current shelf,process activity,robot,14r,shelf,35s,2389
+305RP,2017-12-25 22:41:17,2017-12-25 22:46:17,reduce speed,process activity,robot,24r,shelf,38s,2387
+305RP,2017-12-25 22:27:17,2017-12-25 22:46:17,move shelf to dock,process activity,robot,24r,shelf,38s,2380
+522RP,2017-12-25 22:45:17,2017-12-25 22:58:17,go to approriate shelf,process activity,robot,14r,shelf,1s,2390
+305RP,2017-12-25 22:51:17,2017-12-25 23:06:17,move shelf from dock,process activity,robot,24r,shelf,38s,2395
+405RP,2017-12-25 23:12:17,2017-12-25 23:14:17,putdown current shelf,process activity,robot,13r,shelf,37s,2407
+522RP,2017-12-25 23:15:17,2017-12-25 23:20:17,reduce speed,process activity,robot,14r,shelf,1s,2410
+522RP,2017-12-25 23:00:17,2017-12-25 23:20:17,move shelf to dock,process activity,robot,14r,shelf,1s,2400
+405RP,2017-12-25 23:15:17,2017-12-25 23:29:17,go to approriate shelf,process activity,robot,13r,shelf,32s,2409
+705RP,2017-12-25 23:32:17,2017-12-25 23:37:17,putdown current shelf,process activity,robot,7r,shelf,23s,2424
+405RP,2017-12-25 23:31:17,2017-12-25 23:41:17,move shelf to dock,process activity,robot,13r,shelf,32s,2421
+522RP,2017-12-25 23:27:17,2017-12-25 23:42:17,move shelf from dock,process activity,robot,14r,shelf,1s,2419
+705RP,2017-12-25 23:38:17,2017-12-25 23:53:17,go to approriate shelf,process activity,robot,7r,shelf,39s,2426
+405RP,2017-12-25 23:49:17,2017-12-25 23:56:17,move shelf from dock,process activity,robot,13r,shelf,32s,2434
+44RP,2017-12-25 23:59:17,2017-12-26 00:04:17,putdown current shelf,process activity,robot,17r,shelf,22s,2440
+705RP,2017-12-26 00:04:17,2017-12-26 00:18:17,reduce speed,process activity,robot,7r,shelf,39s,2441
+705RP,2017-12-25 23:55:17,2017-12-26 00:18:17,move shelf to dock,process activity,robot,7r,shelf,39s,2436
+44RP,2017-12-26 00:05:17,2017-12-26 00:19:17,go to approriate shelf,process activity,robot,17r,shelf,36s,2442
+44RP,2017-12-26 00:21:17,2017-12-26 00:33:17,move shelf to dock,process activity,robot,17r,shelf,36s,2453
+705RP,2017-12-26 00:23:17,2017-12-26 00:38:17,move shelf from dock,process activity,robot,7r,shelf,39s,2455
+44RP,2017-12-26 00:39:17,2017-12-26 00:44:17,move shelf from dock,process activity,robot,17r,shelf,36s,2465
+273RP,2017-12-26 00:48:17,2017-12-26 00:50:17,putdown current shelf,process activity,robot,12r,shelf,20s,2468
+273RP,2017-12-26 00:50:17,2017-12-26 00:52:17,go to approriate shelf,process activity,robot,12r,shelf,30s,2469
+565RP,2017-12-26 01:00:17,2017-12-26 01:03:17,putdown current shelf,process activity,robot,1r,shelf,32s,2476
+273RP,2017-12-26 00:54:17,2017-12-26 01:08:17,move shelf to dock,process activity,robot,12r,shelf,30s,2471
+451RP,2017-12-26 01:10:17,2017-12-26 01:14:17,putdown current shelf,process activity,robot,11r,shelf,21s,2481
+565RP,2017-12-26 01:04:17,2017-12-26 01:19:17,go to approriate shelf,process activity,robot,1r,shelf,28s,2477
+273RP,2017-12-26 01:14:17,2017-12-26 01:22:17,move shelf from dock,process activity,robot,12r,shelf,30s,2484
+565RP,2017-12-26 01:20:17,2017-12-26 01:25:17,move shelf to dock,process activity,robot,1r,shelf,28s,2487
+451RP,2017-12-26 01:14:17,2017-12-26 01:29:17,go to approriate shelf,process activity,robot,11r,shelf,19s,2485
+565RP,2017-12-26 01:32:17,2017-12-26 01:43:17,move shelf from dock,process activity,robot,1r,shelf,28s,2497
+451RP,2017-12-26 01:41:17,2017-12-26 01:46:17,reduce speed,process activity,robot,11r,shelf,19s,2499
+451RP,2017-12-26 01:30:17,2017-12-26 01:46:17,move shelf to dock,process activity,robot,11r,shelf,19s,2495
+318RP,2017-12-26 01:50:17,2017-12-26 01:53:17,putdown current shelf,process activity,robot,6r,shelf,26s,2509
+318RP,2017-12-26 01:54:17,2017-12-26 01:58:17,go to approriate shelf,process activity,robot,6r,shelf,8s,2512
+451RP,2017-12-26 01:53:17,2017-12-26 02:06:17,move shelf from dock,process activity,robot,11r,shelf,19s,2511
+318RP,2017-12-26 02:04:17,2017-12-26 02:18:17,reduce speed,process activity,robot,6r,shelf,8s,2519
+318RP,2017-12-26 02:00:17,2017-12-26 02:18:17,move shelf to dock,process activity,robot,6r,shelf,8s,2517
+318RP,2017-12-26 02:23:17,2017-12-26 02:31:17,move shelf from dock,process activity,robot,6r,shelf,8s,2528
+343RP,2017-12-26 02:49:17,2017-12-26 02:52:17,putdown current shelf,process activity,robot,22r,shelf,28s,2536
+343RP,2017-12-26 02:53:17,2017-12-26 02:55:17,go to approriate shelf,process activity,robot,22r,shelf,37s,2537
+638RP,2017-12-26 03:04:17,2017-12-26 03:08:17,putdown current shelf,process activity,robot,8r,shelf,29s,2541
+343RP,2017-12-26 02:57:17,2017-12-26 03:10:17,move shelf to dock,process activity,robot,22r,shelf,37s,2539
+343RP,2017-12-26 03:15:17,2017-12-26 03:18:17,move shelf from dock,process activity,robot,22r,shelf,37s,2548
+638RP,2017-12-26 03:08:17,2017-12-26 03:21:17,go to approriate shelf,process activity,robot,8r,shelf,32s,2544
+638RP,2017-12-26 03:37:17,2017-12-26 03:47:17,reduce speed,process activity,robot,8r,shelf,32s,2556
+638RP,2017-12-26 03:23:17,2017-12-26 03:47:17,move shelf to dock,process activity,robot,8r,shelf,32s,2551
+638RP,2017-12-26 03:54:17,2017-12-26 04:01:17,move shelf from dock,process activity,robot,8r,shelf,32s,2563
+130RP,2017-12-26 04:17:17,2017-12-26 04:23:17,putdown current shelf,process activity,robot,13r,shelf,32s,2573
+229RP,2017-12-26 04:21:17,2017-12-26 04:25:17,putdown current shelf,process activity,robot,7r,shelf,39s,2575
+229RP,2017-12-26 04:25:17,2017-12-26 04:31:17,go to approriate shelf,process activity,robot,7r,shelf,25s,2578
+130RP,2017-12-26 04:24:17,2017-12-26 04:37:17,go to approriate shelf,process activity,robot,13r,shelf,34s,2577
+130RP,2017-12-26 04:38:17,2017-12-26 04:40:17,move shelf to dock,process activity,robot,13r,shelf,34s,2587
+130RP,2017-12-26 04:44:17,2017-12-26 04:46:17,move shelf from dock,process activity,robot,13r,shelf,34s,2597
+229RP,2017-12-26 04:48:17,2017-12-26 04:50:17,reduce speed,process activity,robot,7r,shelf,25s,2598
+229RP,2017-12-26 04:33:17,2017-12-26 04:50:17,move shelf to dock,process activity,robot,7r,shelf,25s,2580
+538RP,2017-12-26 05:01:17,2017-12-26 05:07:17,putdown current shelf,process activity,robot,12r,shelf,30s,2611
+229RP,2017-12-26 04:54:17,2017-12-26 05:10:17,move shelf from dock,process activity,robot,7r,shelf,25s,2604
+144RP,2017-12-26 05:07:17,2017-12-26 05:11:17,putdown current shelf,process activity,robot,1r,shelf,28s,2613
+196RP,2017-12-26 05:11:17,2017-12-26 05:17:17,putdown current shelf,process activity,robot,17r,shelf,36s,2618
+144RP,2017-12-26 05:12:17,2017-12-26 05:17:17,go to approriate shelf,process activity,robot,1r,shelf,16s,2620
+538RP,2017-12-26 05:07:17,2017-12-26 05:19:17,go to approriate shelf,process activity,robot,12r,shelf,10s,2614
+196RP,2017-12-26 05:17:17,2017-12-26 05:21:17,go to approriate shelf,process activity,robot,17r,shelf,25s,2622
+144RP,2017-12-26 05:33:17,2017-12-26 05:35:17,reduce speed,process activity,robot,1r,shelf,16s,2637
+144RP,2017-12-26 05:19:17,2017-12-26 05:35:17,move shelf to dock,process activity,robot,1r,shelf,16s,2624
+690RP,2017-12-26 05:31:17,2017-12-26 05:36:17,putdown current shelf,process activity,robot,11r,shelf,19s,2635
+196RP,2017-12-26 05:30:17,2017-12-26 05:45:17,reduce speed,process activity,robot,17r,shelf,25s,2633
+196RP,2017-12-26 05:22:17,2017-12-26 05:45:17,move shelf to dock,process activity,robot,17r,shelf,25s,2628
+538RP,2017-12-26 05:31:17,2017-12-26 05:46:17,reduce speed,process activity,robot,12r,shelf,10s,2634
+538RP,2017-12-26 05:21:17,2017-12-26 05:46:17,move shelf to dock,process activity,robot,12r,shelf,10s,2626
+690RP,2017-12-26 05:36:17,2017-12-26 05:51:17,go to approriate shelf,process activity,robot,11r,shelf,26s,2643
+144RP,2017-12-26 05:39:17,2017-12-26 05:55:17,move shelf from dock,process activity,robot,1r,shelf,16s,2646
+690RP,2017-12-26 05:53:17,2017-12-26 05:56:17,move shelf to dock,process activity,robot,11r,shelf,26s,2656
+196RP,2017-12-26 05:55:17,2017-12-26 05:58:17,move shelf from dock,process activity,robot,17r,shelf,25s,2658
+100RP,2017-12-26 05:58:17,2017-12-26 06:02:17,putdown current shelf,process activity,robot,6r,shelf,8s,2663
+538RP,2017-12-26 05:56:17,2017-12-26 06:08:17,move shelf from dock,process activity,robot,12r,shelf,10s,2659
+100RP,2017-12-26 06:03:17,2017-12-26 06:11:17,go to approriate shelf,process activity,robot,6r,shelf,9s,2670
+690RP,2017-12-26 06:02:17,2017-12-26 06:12:17,move shelf from dock,process activity,robot,11r,shelf,26s,2669
+515RP,2017-12-26 06:24:17,2017-12-26 06:25:17,putdown current shelf,process activity,robot,22r,shelf,37s,2681
+100RP,2017-12-26 06:24:17,2017-12-26 06:28:17,reduce speed,process activity,robot,6r,shelf,9s,2680
+100RP,2017-12-26 06:12:17,2017-12-26 06:28:17,move shelf to dock,process activity,robot,6r,shelf,9s,2673
+515RP,2017-12-26 06:26:17,2017-12-26 06:39:17,go to approriate shelf,process activity,robot,22r,shelf,8s,2682
+678RP,2017-12-26 06:41:17,2017-12-26 06:42:17,putdown current shelf,process activity,robot,8r,shelf,32s,2695
+678RP,2017-12-26 06:42:17,2017-12-26 06:44:17,go to approriate shelf,process activity,robot,8r,shelf,5s,2696
+100RP,2017-12-26 06:35:17,2017-12-26 06:46:17,move shelf from dock,process activity,robot,6r,shelf,9s,2691
+515RP,2017-12-26 06:48:17,2017-12-26 06:51:17,reduce speed,process activity,robot,22r,shelf,8s,2703
+515RP,2017-12-26 06:40:17,2017-12-26 06:51:17,move shelf to dock,process activity,robot,22r,shelf,8s,2693
+678RP,2017-12-26 06:46:17,2017-12-26 06:56:17,move shelf to dock,process activity,robot,8r,shelf,5s,2698
+678RP,2017-12-26 07:03:17,2017-12-26 07:10:17,move shelf from dock,process activity,robot,8r,shelf,5s,2715
+515RP,2017-12-26 06:56:17,2017-12-26 07:10:17,move shelf from dock,process activity,robot,22r,shelf,8s,2709
+382RP,2017-12-26 07:10:17,2017-12-26 07:13:17,putdown current shelf,process activity,robot,1r,shelf,16s,2721
+382RP,2017-12-26 07:14:17,2017-12-26 07:29:17,go to approriate shelf,process activity,robot,1r,shelf,18s,2722
+382RP,2017-12-26 07:36:17,2017-12-26 07:47:17,reduce speed,process activity,robot,1r,shelf,18s,2730
+382RP,2017-12-26 07:30:17,2017-12-26 07:47:17,move shelf to dock,process activity,robot,1r,shelf,18s,2725
+382RP,2017-12-26 07:52:17,2017-12-26 08:07:17,move shelf from dock,process activity,robot,1r,shelf,18s,2736
+442RP,2017-12-26 08:16:17,2017-12-26 08:19:17,putdown current shelf,process activity,robot,17r,shelf,25s,2743
+442RP,2017-12-26 08:19:17,2017-12-26 08:25:17,go to approriate shelf,process activity,robot,17r,shelf,28s,2747
+320RP,2017-12-26 08:55:17,2017-12-26 08:59:17,putdown current shelf,process activity,robot,6r,shelf,9s,2762
+442RP,2017-12-26 08:45:17,2017-12-26 09:00:17,reduce speed,process activity,robot,17r,shelf,28s,2756
+442RP,2017-12-26 08:35:17,2017-12-26 09:00:17,move shelf to dock,process activity,robot,17r,shelf,28s,2750
+320RP,2017-12-26 08:59:17,2017-12-26 09:09:17,go to approriate shelf,process activity,robot,6r,shelf,10s,2764
+442RP,2017-12-26 09:06:17,2017-12-26 09:16:17,move shelf from dock,process activity,robot,17r,shelf,28s,2769
+777RP,2017-12-26 09:15:17,2017-12-26 09:19:17,putdown current shelf,process activity,robot,8r,shelf,5s,2778
+777RP,2017-12-26 09:20:17,2017-12-26 09:26:17,go to approriate shelf,process activity,robot,8r,shelf,15s,2780
+320RP,2017-12-26 09:26:17,2017-12-26 09:40:17,reduce speed,process activity,robot,6r,shelf,10s,2785
+320RP,2017-12-26 09:10:17,2017-12-26 09:40:17,move shelf to dock,process activity,robot,6r,shelf,10s,2775
+777RP,2017-12-26 09:42:17,2017-12-26 09:57:17,reduce speed,process activity,robot,8r,shelf,15s,2792
+777RP,2017-12-26 09:28:17,2017-12-26 09:57:17,move shelf to dock,process activity,robot,8r,shelf,15s,2787
+320RP,2017-12-26 09:48:17,2017-12-26 10:02:17,move shelf from dock,process activity,robot,6r,shelf,10s,2800
+784RP,2017-12-26 10:04:17,2017-12-26 10:07:17,putdown current shelf,process activity,robot,1r,shelf,18s,2809
+784RP,2017-12-26 10:08:17,2017-12-26 10:10:17,go to approriate shelf,process activity,robot,1r,shelf,15s,2812
+777RP,2017-12-26 10:02:17,2017-12-26 10:12:17,move shelf from dock,process activity,robot,8r,shelf,15s,2806
+735RP,2017-12-26 10:09:17,2017-12-26 10:13:17,putdown current shelf,process activity,robot,17r,shelf,28s,2814
+784RP,2017-12-26 10:24:17,2017-12-26 10:26:17,reduce speed,process activity,robot,1r,shelf,15s,2821
+784RP,2017-12-26 10:12:17,2017-12-26 10:26:17,move shelf to dock,process activity,robot,1r,shelf,15s,2816
+735RP,2017-12-26 10:13:17,2017-12-26 10:28:17,go to approriate shelf,process activity,robot,17r,shelf,14s,2819
+177RP,2017-12-26 10:26:17,2017-12-26 10:35:17,putdown current shelf,process activity,robot,8r,shelf,15s,2823
+735RP,2017-12-26 10:44:17,2017-12-26 10:46:17,reduce speed,process activity,robot,17r,shelf,14s,2836
+735RP,2017-12-26 10:30:17,2017-12-26 10:46:17,move shelf to dock,process activity,robot,17r,shelf,14s,2827
+784RP,2017-12-26 10:36:17,2017-12-26 10:52:17,move shelf from dock,process activity,robot,1r,shelf,15s,2834
+177RP,2017-12-26 10:36:17,2017-12-26 10:52:17,go to approriate shelf,process activity,robot,8r,shelf,13s,2833
+55RP,2017-12-26 11:05:17,2017-12-26 11:06:17,putdown current shelf,process activity,robot,1r,shelf,15s,2852
+735RP,2017-12-26 10:52:17,2017-12-26 11:07:17,move shelf from dock,process activity,robot,17r,shelf,14s,2841
+177RP,2017-12-26 11:02:17,2017-12-26 11:15:17,reduce speed,process activity,robot,8r,shelf,13s,2850
+177RP,2017-12-26 10:53:17,2017-12-26 11:15:17,move shelf to dock,process activity,robot,8r,shelf,13s,2844
+55RP,2017-12-26 11:06:17,2017-12-26 11:20:17,go to approriate shelf,process activity,robot,1r,shelf,32s,2853
+282RP,2017-12-26 11:25:17,2017-12-26 11:29:17,putdown current shelf,process activity,robot,17r,shelf,14s,2866
+177RP,2017-12-26 11:25:17,2017-12-26 11:37:17,move shelf from dock,process activity,robot,8r,shelf,13s,2865
+55RP,2017-12-26 11:35:17,2017-12-26 11:43:17,reduce speed,process activity,robot,1r,shelf,32s,2870
+55RP,2017-12-26 11:21:17,2017-12-26 11:43:17,move shelf to dock,process activity,robot,1r,shelf,32s,2860
+282RP,2017-12-26 11:29:17,2017-12-26 11:46:17,go to approriate shelf,process activity,robot,17r,shelf,28s,2868
+55RP,2017-12-26 11:51:17,2017-12-26 11:54:17,move shelf from dock,process activity,robot,1r,shelf,32s,2881
+282RP,2017-12-26 11:49:17,2017-12-26 12:01:17,move shelf to dock,process activity,robot,17r,shelf,28s,2877
+97RP,2017-12-26 12:11:17,2017-12-26 12:17:17,putdown current shelf,process activity,robot,8r,shelf,13s,2892
+282RP,2017-12-26 12:08:17,2017-12-26 12:22:17,move shelf from dock,process activity,robot,17r,shelf,28s,2889

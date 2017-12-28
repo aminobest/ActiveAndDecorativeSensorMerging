@@ -1,0 +1,26 @@
+#!/bin/sh
+# embedded options to qsub - start with #PBS
+# -- Name of the job ---
+#PBS -N caseid-BPI_Challenge_2012_1.csv
+# ?- specify queue --
+#PBS -q compute
+# -- estimated wall clock time (execution time): hh:mm:ss --
+#PBS -l walltime=1:00:00
+# ?- number of processors/cores/nodes --
+#PBS -l nodes=1:ppn=4
+#PBS -l pmem=12gb
+# ?- user email address --
+# please uncomment the following line and put in your e-mail address,
+# if you want to receive e-mail notifications on a non-default address
+#PBS -M a.abbadandaloussi@gmai.com
+# ?- mail notification ?-
+#PBS -m abe
+# -- run in the current working (submission) directory --
+if test X$PBS_ENVIRONMENT = XPBS_BATCH; then cd $PBS_O_WORKDIR; fi
+# here follow the commands you want to execute
+cd ${HOME}/caseid/
+./executeCaseId.sh BPI_Challenge_2012_1.csv 3 1 0 >> BPI_Challenge_2012_1.csv-result.csv
+./executeCaseId.sh BPI_Challenge_2012_1.csv 3 1 2 >> BPI_Challenge_2012_1.csv-result.csv
+./executeCaseId.sh BPI_Challenge_2012_1.csv 3 1 4 >> BPI_Challenge_2012_1.csv-result.csv
+./executeCaseId.sh BPI_Challenge_2012_1.csv 3 1 5 >> BPI_Challenge_2012_1.csv-result.csv
+./executeCaseId.sh BPI_Challenge_2012_1.csv 3 1 6 >> BPI_Challenge_2012_1.csv-result.csv

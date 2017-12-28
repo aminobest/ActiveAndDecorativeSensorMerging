@@ -1,0 +1,396 @@
+Case Id,Start Timestamp,End Timesstamp,Event Name,Event Type,Subjec Group,Subject Id,Object Group,Object Id,Event Id
+181CP,2017-12-25 02:29:11,2017-12-25 02:41:11,Request product,process activity,clerk,1c,product,181p,1311
+181CP,2017-12-25 02:42:11,2017-12-25 02:42:11,Assgin robot,process activity,robot,22r,shelf,8s,1315
+379CP,2017-12-25 02:34:11,2017-12-25 02:51:11,Request product,process activity,clerk,1c,product,379p,1313
+379CP,2017-12-25 02:52:11,2017-12-25 02:52:11,Assgin robot,process activity,robot,10r,shelf,29s,1321
+419CP,2017-12-25 02:30:11,2017-12-25 02:55:11,Request product,process activity,clerk,1c,product,419p,1312
+419CP,2017-12-25 02:55:11,2017-12-25 02:55:11,Assgin robot,process activity,robot,19r,shelf,27s,1324
+605CP,2017-12-25 02:38:11,2017-12-25 02:59:11,Request product,process activity,clerk,1c,product,605p,1314
+605CP,2017-12-25 02:59:11,2017-12-25 02:59:11,Assgin robot,process activity,robot,2r,shelf,16s,1328
+272CP,2017-12-25 02:50:11,2017-12-25 03:04:11,Request product,process activity,clerk,1c,product,272p,1320
+272CP,2017-12-25 03:05:11,2017-12-25 03:05:11,Assgin robot,process activity,robot,13r,shelf,8s,1336
+666CP,2017-12-25 02:42:11,2017-12-25 03:07:11,Request product,process activity,clerk,1c,product,666p,1316
+666CP,2017-12-25 03:08:11,2017-12-25 03:08:11,Assgin robot,process activity,robot,16r,shelf,13s,1338
+54CP,2017-12-25 02:47:11,2017-12-25 03:12:11,Request product,process activity,clerk,1c,product,54p,1319
+54CP,2017-12-25 03:13:11,2017-12-25 03:13:11,Assgin robot,process activity,robot,3r,shelf,22s,1346
+208CP,2017-12-25 03:10:11,2017-12-25 03:15:11,Request product,process activity,clerk,1c,product,208p,1342
+208CP,2017-12-25 03:16:11,2017-12-25 03:16:11,Assgin robot,process activity,robot,12r,shelf,30s,1349
+419CP,2017-12-25 03:22:11,2017-12-25 03:22:11,check if the product was shaked,process activity,clerk,1c,product,419p,1357
+542CP,2017-12-25 03:02:11,2017-12-25 03:29:11,Request product,process activity,clerk,1c,product,542p,1333
+542CP,2017-12-25 03:29:11,2017-12-25 03:29:11,Assgin robot,process activity,robot,21r,shelf,31s,1366
+160CP,2017-12-25 03:23:11,2017-12-25 03:41:11,Request product,process activity,clerk,1c,product,160p,1361
+160CP,2017-12-25 03:42:11,2017-12-25 03:42:11,Assgin robot,process activity,robot,1r,shelf,18s,1385
+419CP,2017-12-25 03:46:11,2017-12-25 03:46:11,Product Delivered,process activity,clerk,1c,product,419p,1391
+181CP,2017-12-25 03:49:11,2017-12-25 03:49:11,check if the product was shaked,process activity,clerk,1c,product,181p,1398
+243CP,2017-12-25 03:38:11,2017-12-25 03:49:11,Request product,process activity,clerk,1c,product,243p,1380
+243CP,2017-12-25 03:54:11,2017-12-25 03:54:11,Assgin robot,process activity,robot,20r,shelf,37s,1405
+213CP,2017-12-25 03:34:11,2017-12-25 03:57:11,Request product,process activity,clerk,1c,product,213p,1373
+213CP,2017-12-25 03:57:11,2017-12-25 03:57:11,Assgin robot,process activity,robot,4r,shelf,36s,1412
+181CP,2017-12-25 04:07:11,2017-12-25 04:07:11,Product Delivered,process activity,clerk,1c,product,181p,1429
+379CP,2017-12-25 04:11:11,2017-12-25 04:11:11,check if the product was shaked,process activity,clerk,1c,product,379p,1434
+456CP,2017-12-25 04:01:11,2017-12-25 04:13:11,Request product,process activity,clerk,1c,product,456p,1419
+456CP,2017-12-25 04:14:11,2017-12-25 04:14:11,Assgin robot,process activity,robot,11r,shelf,11s,1438
+490CP,2017-12-25 03:48:11,2017-12-25 04:15:11,Request product,process activity,clerk,1c,product,490p,1396
+490CP,2017-12-25 04:16:11,2017-12-25 04:16:11,Assgin robot,process activity,robot,7r,shelf,7s,1441
+647CP,2017-12-25 03:53:11,2017-12-25 04:19:11,Request product,process activity,clerk,1c,product,647p,1403
+647CP,2017-12-25 04:19:11,2017-12-25 04:19:11,Assgin robot,process activity,robot,8r,shelf,38s,1446
+379CP,2017-12-25 04:24:11,2017-12-25 04:24:11,Product Delivered,process activity,clerk,1c,product,379p,1453
+605CP,2017-12-25 04:24:11,2017-12-25 04:24:11,check if the product was shaked,process activity,clerk,1c,product,605p,1454
+599CP,2017-12-25 04:08:11,2017-12-25 04:24:11,Request product,process activity,clerk,1c,product,599p,1431
+599CP,2017-12-25 04:25:11,2017-12-25 04:25:11,Assgin robot,process activity,robot,6r,shelf,35s,1455
+248CP,2017-12-25 03:56:11,2017-12-25 04:25:11,Request product,process activity,clerk,1c,product,248p,1409
+248CP,2017-12-25 04:25:11,2017-12-25 04:25:11,Assgin robot,process activity,robot,23r,shelf,11s,1456
+338CP,2017-12-25 04:08:11,2017-12-25 04:34:11,Request product,process activity,clerk,1c,product,338p,1430
+338CP,2017-12-25 04:34:11,2017-12-25 04:34:11,Assgin robot,process activity,robot,22r,shelf,25s,1470
+109CP,2017-12-25 04:16:11,2017-12-25 04:35:11,Request product,process activity,clerk,1c,product,109p,1442
+109CP,2017-12-25 04:37:11,2017-12-25 04:37:11,Assgin robot,process activity,robot,19r,shelf,15s,1476
+693CP,2017-12-25 04:36:11,2017-12-25 04:54:11,Request product,process activity,clerk,1c,product,693p,1474
+693CP,2017-12-25 04:55:11,2017-12-25 04:55:11,Assgin robot,process activity,robot,17r,shelf,0s,1497
+527CP,2017-12-25 04:30:11,2017-12-25 05:00:11,Request product,process activity,clerk,1c,product,527p,1461
+527CP,2017-12-25 05:00:11,2017-12-25 05:00:11,Assgin robot,process activity,robot,10r,shelf,16s,1505
+605CP,2017-12-25 05:03:11,2017-12-25 05:03:11,Product Delivered,process activity,clerk,1c,product,605p,1510
+208CP,2017-12-25 05:06:11,2017-12-25 05:06:11,check if the product was shaked,process activity,clerk,1c,product,208p,1514
+385CP,2017-12-25 04:47:11,2017-12-25 05:07:11,Request product,process activity,clerk,1c,product,385p,1488
+385CP,2017-12-25 05:07:11,2017-12-25 05:07:11,Assgin robot,process activity,robot,14r,shelf,26s,1516
+582CP,2017-12-25 05:07:11,2017-12-25 05:21:11,Request product,process activity,clerk,1c,product,582p,1515
+582CP,2017-12-25 05:21:11,2017-12-25 05:21:11,Assgin robot,process activity,robot,2r,shelf,10s,1537
+208CP,2017-12-25 05:38:11,2017-12-25 05:38:11,Product Delivered,process activity,clerk,1c,product,208p,1561
+54CP,2017-12-25 05:39:11,2017-12-25 05:39:11,check if the product was shaked,process activity,clerk,1c,product,54p,1562
+568CP,2017-12-25 05:23:11,2017-12-25 05:46:11,Request product,process activity,clerk,1c,product,568p,1542
+568CP,2017-12-25 05:47:11,2017-12-25 05:47:11,Assgin robot,process activity,robot,15r,shelf,14s,1573
+54CP,2017-12-25 05:59:11,2017-12-25 05:59:11,Product Delivered,process activity,clerk,1c,product,54p,1589
+666CP,2017-12-25 05:59:11,2017-12-25 05:59:11,check if the product was shaked,process activity,clerk,1c,product,666p,1590
+692CP,2017-12-25 05:46:11,2017-12-25 06:06:11,Request product,process activity,clerk,1c,product,692p,1571
+692CP,2017-12-25 06:06:11,2017-12-25 06:06:11,Assgin robot,process activity,robot,5r,shelf,4s,1598
+471CP,2017-12-25 05:42:11,2017-12-25 06:06:11,Request product,process activity,clerk,1c,product,471p,1568
+471CP,2017-12-25 06:07:11,2017-12-25 06:07:11,Assgin robot,process activity,robot,12r,shelf,9s,1600
+666CP,2017-12-25 06:24:11,2017-12-25 06:24:11,Product Delivered,process activity,clerk,1c,product,666p,1611
+385CP,2017-12-25 06:25:11,2017-12-25 06:25:11,check if the product was shaked,process activity,clerk,1c,product,385p,1614
+701CP,2017-12-25 06:06:11,2017-12-25 06:25:11,Request product,process activity,clerk,1c,product,701p,1599
+701CP,2017-12-25 06:30:11,2017-12-25 06:30:11,Assgin robot,process activity,robot,0r,shelf,3s,1619
+591CP,2017-12-25 06:25:11,2017-12-25 06:40:11,Request product,process activity,clerk,1c,product,591p,1615
+591CP,2017-12-25 06:40:11,2017-12-25 06:40:11,Assgin robot,process activity,robot,16r,shelf,29s,1623
+385CP,2017-12-25 06:57:11,2017-12-25 06:57:11,Product Delivered,process activity,clerk,1c,product,385p,1642
+243CP,2017-12-25 07:00:11,2017-12-25 07:00:11,check if the product was shaked,process activity,clerk,1c,product,243p,1646
+243CP,2017-12-25 07:12:11,2017-12-25 07:12:11,Product Delivered,process activity,clerk,1c,product,243p,1657
+160CP,2017-12-25 07:13:11,2017-12-25 07:13:11,check if the product was shaked,process activity,clerk,1c,product,160p,1659
+761CP,2017-12-25 07:21:11,2017-12-25 07:27:11,Request product,process activity,clerk,1c,product,761p,1664
+761CP,2017-12-25 07:28:11,2017-12-25 07:28:11,Assgin robot,process activity,robot,14r,shelf,1s,1671
+160CP,2017-12-25 07:29:11,2017-12-25 07:29:11,Product Delivered,process activity,clerk,1c,product,160p,1673
+272CP,2017-12-25 07:30:11,2017-12-25 07:30:11,check if the product was shaked,process activity,clerk,1c,product,272p,1676
+765CP,2017-12-25 07:13:11,2017-12-25 07:40:11,Request product,process activity,clerk,1c,product,765p,1658
+765CP,2017-12-25 07:41:11,2017-12-25 07:41:11,Assgin robot,process activity,robot,20r,shelf,28s,1691
+272CP,2017-12-25 07:44:11,2017-12-25 07:44:11,Product Delivered,process activity,clerk,1c,product,272p,1693
+542CP,2017-12-25 07:45:11,2017-12-25 07:45:11,check if the product was shaked,process activity,clerk,1c,product,542p,1695
+461CP,2017-12-25 07:34:11,2017-12-25 07:46:11,Request product,process activity,clerk,1c,product,461p,1682
+461CP,2017-12-25 07:47:11,2017-12-25 07:47:11,Assgin robot,process activity,robot,3r,shelf,0s,1698
+509CP,2017-12-25 07:31:11,2017-12-25 07:51:11,Request product,process activity,clerk,1c,product,509p,1677
+509CP,2017-12-25 07:51:11,2017-12-25 07:51:11,Assgin robot,process activity,robot,1r,shelf,16s,1700
+663CP,2017-12-25 07:44:11,2017-12-25 07:57:11,Request product,process activity,clerk,1c,product,663p,1694
+111CP,2017-12-25 07:40:11,2017-12-25 07:59:11,Request product,process activity,clerk,1c,product,111p,1690
+663CP,2017-12-25 08:00:11,2017-12-25 08:00:11,Assgin robot,process activity,robot,13r,shelf,22s,1709
+111CP,2017-12-25 08:02:11,2017-12-25 08:02:11,Assgin robot,process activity,robot,24r,shelf,18s,1711
+542CP,2017-12-25 08:15:11,2017-12-25 08:15:11,Product Delivered,process activity,clerk,1c,product,542p,1728
+213CP,2017-12-25 08:15:11,2017-12-25 08:15:11,check if the product was shaked,process activity,clerk,1c,product,213p,1729
+220CP,2017-12-25 08:11:11,2017-12-25 08:15:11,Request product,process activity,clerk,1c,product,220p,1724
+220CP,2017-12-25 08:16:11,2017-12-25 08:16:11,Assgin robot,process activity,robot,9r,shelf,38s,1730
+213CP,2017-12-25 08:25:11,2017-12-25 08:25:11,Product Delivered,process activity,clerk,1c,product,213p,1739
+599CP,2017-12-25 08:25:11,2017-12-25 08:25:11,check if the product was shaked,process activity,clerk,1c,product,599p,1740
+599CP,2017-12-25 08:44:11,2017-12-25 08:44:11,Product Delivered,process activity,clerk,1c,product,599p,1763
+647CP,2017-12-25 08:45:11,2017-12-25 08:45:11,check if the product was shaked,process activity,clerk,1c,product,647p,1766
+192CP,2017-12-25 08:28:11,2017-12-25 08:47:11,Request product,process activity,clerk,1c,product,192p,1744
+192CP,2017-12-25 08:47:11,2017-12-25 08:47:11,Assgin robot,process activity,robot,4r,shelf,35s,1768
+290CP,2017-12-25 08:45:11,2017-12-25 08:48:11,Request product,process activity,clerk,1c,product,290p,1765
+290CP,2017-12-25 08:48:11,2017-12-25 08:48:11,Assgin robot,process activity,robot,6r,shelf,15s,1770
+647CP,2017-12-25 09:01:11,2017-12-25 09:01:11,Product Delivered,process activity,clerk,1c,product,647p,1783
+490CP,2017-12-25 09:02:11,2017-12-25 09:02:11,check if the product was shaked,process activity,clerk,1c,product,490p,1785
+490CP,2017-12-25 09:18:11,2017-12-25 09:18:11,Product Delivered,process activity,clerk,1c,product,490p,1797
+109CP,2017-12-25 09:18:11,2017-12-25 09:18:11,check if the product was shaked,process activity,clerk,1c,product,109p,1798
+109CP,2017-12-25 09:32:11,2017-12-25 09:32:11,Product Delivered,process activity,clerk,1c,product,109p,1811
+456CP,2017-12-25 09:33:11,2017-12-25 09:33:11,check if the product was shaked,process activity,clerk,1c,product,456p,1813
+92CP,2017-12-25 09:19:11,2017-12-25 09:37:11,Request product,process activity,clerk,1c,product,92p,1800
+92CP,2017-12-25 09:37:11,2017-12-25 09:37:11,Assgin robot,process activity,robot,7r,shelf,5s,1816
+232CP,2017-12-25 09:38:11,2017-12-25 09:41:11,Request product,process activity,clerk,1c,product,232p,1817
+232CP,2017-12-25 09:41:11,2017-12-25 09:41:11,Assgin robot,process activity,robot,18r,shelf,38s,1820
+456CP,2017-12-25 09:45:11,2017-12-25 09:45:11,Product Delivered,process activity,clerk,1c,product,456p,1823
+338CP,2017-12-25 09:46:11,2017-12-25 09:46:11,check if the product was shaked,process activity,clerk,1c,product,338p,1824
+338CP,2017-12-25 09:50:11,2017-12-25 09:50:11,Product Delivered,process activity,clerk,1c,product,338p,1828
+693CP,2017-12-25 09:50:11,2017-12-25 09:50:11,check if the product was shaked,process activity,clerk,1c,product,693p,1829
+654CP,2017-12-25 09:32:11,2017-12-25 09:54:11,Request product,process activity,clerk,1c,product,654p,1812
+654CP,2017-12-25 09:55:11,2017-12-25 09:55:11,Assgin robot,process activity,robot,19r,shelf,22s,1833
+507CP,2017-12-25 09:48:11,2017-12-25 10:11:11,Request product,process activity,clerk,1c,product,507p,1826
+507CP,2017-12-25 10:12:11,2017-12-25 10:12:11,Assgin robot,process activity,robot,11r,shelf,36s,1841
+366CP,2017-12-25 09:51:11,2017-12-25 10:13:11,Request product,process activity,clerk,1c,product,366p,1830
+366CP,2017-12-25 10:13:11,2017-12-25 10:13:11,Assgin robot,process activity,robot,22r,shelf,34s,1843
+693CP,2017-12-25 10:15:11,2017-12-25 10:15:11,Product Delivered,process activity,clerk,1c,product,693p,1845
+17CP,2017-12-25 10:04:11,2017-12-25 10:15:11,Request product,process activity,clerk,1c,product,17p,1839
+17CP,2017-12-25 10:15:11,2017-12-25 10:15:11,Assgin robot,process activity,robot,8r,shelf,21s,1846
+582CP,2017-12-25 10:16:11,2017-12-25 10:16:11,check if the product was shaked,process activity,clerk,1c,product,582p,1847
+467CP,2017-12-25 10:17:11,2017-12-25 10:25:11,Request product,process activity,clerk,1c,product,467p,1849
+467CP,2017-12-25 10:25:11,2017-12-25 10:25:11,Assgin robot,process activity,robot,17r,shelf,13s,1856
+582CP,2017-12-25 10:26:11,2017-12-25 10:26:11,Product Delivered,process activity,clerk,1c,product,582p,1858
+692CP,2017-12-25 10:27:11,2017-12-25 10:27:11,check if the product was shaked,process activity,clerk,1c,product,692p,1859
+708CP,2017-12-25 10:28:11,2017-12-25 10:45:11,Request product,process activity,clerk,1c,product,708p,1862
+708CP,2017-12-25 10:46:11,2017-12-25 10:46:11,Assgin robot,process activity,robot,2r,shelf,3s,1876
+79CP,2017-12-25 10:28:11,2017-12-25 10:47:11,Request product,process activity,clerk,1c,product,79p,1861
+79CP,2017-12-25 10:47:11,2017-12-25 10:47:11,Assgin robot,process activity,robot,21r,shelf,14s,1880
+692CP,2017-12-25 10:50:11,2017-12-25 10:50:11,Product Delivered,process activity,clerk,1c,product,692p,1884
+527CP,2017-12-25 10:51:11,2017-12-25 10:51:11,check if the product was shaked,process activity,clerk,1c,product,527p,1886
+527CP,2017-12-25 11:03:11,2017-12-25 11:03:11,Product Delivered,process activity,clerk,1c,product,527p,1901
+568CP,2017-12-25 11:04:11,2017-12-25 11:04:11,check if the product was shaked,process activity,clerk,1c,product,568p,1903
+355CP,2017-12-25 10:52:11,2017-12-25 11:06:11,Request product,process activity,clerk,1c,product,355p,1889
+355CP,2017-12-25 11:07:11,2017-12-25 11:07:11,Assgin robot,process activity,robot,5r,shelf,38s,1909
+387CP,2017-12-25 11:05:11,2017-12-25 11:30:11,Request product,process activity,clerk,1c,product,387p,1905
+387CP,2017-12-25 11:30:11,2017-12-25 11:30:11,Assgin robot,process activity,robot,10r,shelf,20s,1928
+568CP,2017-12-25 11:32:11,2017-12-25 11:32:11,Product Delivered,process activity,clerk,1c,product,568p,1931
+471CP,2017-12-25 11:33:11,2017-12-25 11:33:11,check if the product was shaked,process activity,clerk,1c,product,471p,1933
+471CP,2017-12-25 11:46:11,2017-12-25 11:46:11,Product Delivered,process activity,clerk,1c,product,471p,1940
+591CP,2017-12-25 11:47:11,2017-12-25 11:47:11,check if the product was shaked,process activity,clerk,1c,product,591p,1942
+483CP,2017-12-25 11:32:11,2017-12-25 11:57:11,Request product,process activity,clerk,1c,product,483p,1932
+483CP,2017-12-25 11:57:11,2017-12-25 11:58:11,Assgin robot,process activity,robot,15r,shelf,35s,1952
+591CP,2017-12-25 12:15:11,2017-12-25 12:15:11,Product Delivered,process activity,clerk,1c,product,591p,1967
+248CP,2017-12-25 12:16:11,2017-12-25 12:16:11,check if the product was shaked,process activity,clerk,1c,product,248p,1968
+248CP,2017-12-25 12:34:11,2017-12-25 12:34:11,Product Delivered,process activity,clerk,1c,product,248p,1989
+701CP,2017-12-25 12:38:11,2017-12-25 12:38:11,check if the product was shaked,process activity,clerk,1c,product,701p,1991
+246CP,2017-12-25 12:18:11,2017-12-25 12:40:11,Request product,process activity,clerk,1c,product,246p,1973
+246CP,2017-12-25 12:40:11,2017-12-25 12:40:11,Assgin robot,process activity,robot,16r,shelf,10s,1993
+701CP,2017-12-25 12:46:11,2017-12-25 12:46:11,Product Delivered,process activity,clerk,1c,product,701p,1996
+761CP,2017-12-25 12:47:11,2017-12-25 12:47:11,check if the product was shaked,process activity,clerk,1c,product,761p,1999
+761CP,2017-12-25 12:51:11,2017-12-25 12:51:11,Product Delivered,process activity,clerk,1c,product,761p,2003
+765CP,2017-12-25 12:52:11,2017-12-25 12:52:11,check if the product was shaked,process activity,clerk,1c,product,765p,2004
+327CP,2017-12-25 12:35:11,2017-12-25 12:52:11,Request product,process activity,clerk,1c,product,327p,1990
+327CP,2017-12-25 12:53:11,2017-12-25 12:53:11,Assgin robot,process activity,robot,23r,shelf,25s,2006
+172CP,2017-12-25 12:46:11,2017-12-25 13:04:11,Request product,process activity,clerk,1c,product,172p,1997
+172CP,2017-12-25 13:05:11,2017-12-25 13:05:11,Assgin robot,process activity,robot,0r,shelf,36s,2013
+655CP,2017-12-25 12:55:11,2017-12-25 13:05:11,Request product,process activity,clerk,1c,product,655p,2009
+655CP,2017-12-25 13:05:11,2017-12-25 13:05:11,Assgin robot,process activity,robot,14r,shelf,5s,2014
+765CP,2017-12-25 13:09:11,2017-12-25 13:09:11,Product Delivered,process activity,clerk,1c,product,765p,2020
+111CP,2017-12-25 13:10:11,2017-12-25 13:10:11,check if the product was shaked,process activity,clerk,1c,product,111p,2021
+295CP,2017-12-25 13:11:11,2017-12-25 13:16:11,Request product,process activity,clerk,1c,product,295p,2023
+295CP,2017-12-25 13:17:11,2017-12-25 13:17:11,Assgin robot,process activity,robot,20r,shelf,0s,2030
+111CP,2017-12-25 13:33:11,2017-12-25 13:33:11,Product Delivered,process activity,clerk,1c,product,111p,2049
+509CP,2017-12-25 13:33:11,2017-12-25 13:33:11,check if the product was shaked,process activity,clerk,1c,product,509p,2050
+331CP,2017-12-25 13:21:11,2017-12-25 13:37:11,Request product,process activity,clerk,1c,product,331p,2036
+331CP,2017-12-25 13:37:11,2017-12-25 13:37:11,Assgin robot,process activity,robot,12r,shelf,13s,2057
+639CP,2017-12-25 13:36:11,2017-12-25 13:48:11,Request product,process activity,clerk,1c,product,639p,2054
+639CP,2017-12-25 13:49:11,2017-12-25 13:49:11,Assgin robot,process activity,robot,24r,shelf,28s,2069
+509CP,2017-12-25 13:49:11,2017-12-25 13:49:11,Product Delivered,process activity,clerk,1c,product,509p,2070
+461CP,2017-12-25 13:50:11,2017-12-25 13:50:11,check if the product was shaked,process activity,clerk,1c,product,461p,2072
+461CP,2017-12-25 14:17:11,2017-12-25 14:17:11,Product Delivered,process activity,clerk,1c,product,461p,2087
+663CP,2017-12-25 14:17:11,2017-12-25 14:17:11,check if the product was shaked,process activity,clerk,1c,product,663p,2088
+663CP,2017-12-25 14:34:11,2017-12-25 14:34:11,Product Delivered,process activity,clerk,1c,product,663p,2095
+220CP,2017-12-25 14:35:11,2017-12-25 14:35:11,check if the product was shaked,process activity,clerk,1c,product,220p,2098
+0CP,2017-12-25 14:35:11,2017-12-25 14:45:11,Request product,process activity,clerk,1c,product,0p,2097
+0CP,2017-12-25 14:45:11,2017-12-25 14:45:11,Assgin robot,process activity,robot,13r,shelf,35s,2102
+220CP,2017-12-25 14:54:11,2017-12-25 14:54:11,Product Delivered,process activity,clerk,1c,product,220p,2105
+192CP,2017-12-25 14:54:11,2017-12-25 14:54:11,check if the product was shaked,process activity,clerk,1c,product,192p,2106
+787CP,2017-12-25 14:39:11,2017-12-25 14:58:11,Request product,process activity,clerk,1c,product,787p,2100
+787CP,2017-12-25 14:59:11,2017-12-25 14:59:11,Assgin robot,process activity,robot,3r,shelf,34s,2110
+437CP,2017-12-25 14:55:11,2017-12-25 15:01:11,Request product,process activity,clerk,1c,product,437p,2108
+437CP,2017-12-25 15:01:11,2017-12-25 15:01:11,Assgin robot,process activity,robot,9r,shelf,17s,2111
+192CP,2017-12-25 15:22:11,2017-12-25 15:22:11,Product Delivered,process activity,clerk,1c,product,192p,2119
+290CP,2017-12-25 15:22:11,2017-12-25 15:22:11,check if the product was shaked,process activity,clerk,1c,product,290p,2120
+266CP,2017-12-25 15:07:11,2017-12-25 15:31:11,Request product,process activity,clerk,1c,product,266p,2115
+266CP,2017-12-25 15:32:11,2017-12-25 15:32:11,Assgin robot,process activity,robot,1r,shelf,10s,2130
+290CP,2017-12-25 15:37:11,2017-12-25 15:37:11,Product Delivered,process activity,clerk,1c,product,290p,2131
+92CP,2017-12-25 15:37:11,2017-12-25 15:37:11,check if the product was shaked,process activity,clerk,1c,product,92p,2132
+34CP,2017-12-25 15:23:11,2017-12-25 15:38:11,Request product,process activity,clerk,1c,product,34p,2122
+34CP,2017-12-25 15:39:11,2017-12-25 15:39:11,Assgin robot,process activity,robot,4r,shelf,32s,2135
+528CP,2017-12-25 15:38:11,2017-12-25 16:02:11,Request product,process activity,clerk,1c,product,528p,2134
+528CP,2017-12-25 16:03:11,2017-12-25 16:03:11,Assgin robot,process activity,robot,6r,shelf,27s,2145
+92CP,2017-12-25 16:04:11,2017-12-25 16:04:11,Product Delivered,process activity,clerk,1c,product,92p,2148
+507CP,2017-12-25 16:04:11,2017-12-25 16:04:11,check if the product was shaked,process activity,clerk,1c,product,507p,2149
+185CP,2017-12-25 16:05:11,2017-12-25 16:26:11,Request product,process activity,clerk,1c,product,185p,2150
+507CP,2017-12-25 16:26:11,2017-12-25 16:26:11,Product Delivered,process activity,clerk,1c,product,507p,2167
+17CP,2017-12-25 16:28:11,2017-12-25 16:28:11,check if the product was shaked,process activity,clerk,1c,product,17p,2170
+185CP,2017-12-25 16:29:11,2017-12-25 16:29:11,Assgin robot,process activity,robot,7r,shelf,1s,2174
+17CP,2017-12-25 16:48:11,2017-12-25 16:48:11,Product Delivered,process activity,clerk,1c,product,17p,2183
+366CP,2017-12-25 16:49:11,2017-12-25 16:49:11,check if the product was shaked,process activity,clerk,1c,product,366p,2186
+522CP,2017-12-25 16:29:11,2017-12-25 16:50:11,Request product,process activity,clerk,1c,product,522p,2173
+522CP,2017-12-25 16:50:11,2017-12-25 16:50:11,Assgin robot,process activity,robot,11r,shelf,37s,2188
+366CP,2017-12-25 17:05:11,2017-12-25 17:05:11,Product Delivered,process activity,clerk,1c,product,366p,2200
+467CP,2017-12-25 17:05:11,2017-12-25 17:05:11,check if the product was shaked,process activity,clerk,1c,product,467p,2201
+390CP,2017-12-25 17:06:11,2017-12-25 17:12:11,Request product,process activity,clerk,1c,product,390p,2203
+390CP,2017-12-25 17:13:11,2017-12-25 17:13:11,Assgin robot,process activity,robot,22r,shelf,2s,2210
+229CP,2017-12-25 16:49:11,2017-12-25 17:14:11,Request product,process activity,clerk,1c,product,229p,2185
+229CP,2017-12-25 17:14:11,2017-12-25 17:14:11,Assgin robot,process activity,robot,8r,shelf,18s,2212
+467CP,2017-12-25 17:33:11,2017-12-25 17:33:11,Product Delivered,process activity,clerk,1c,product,467p,2228
+708CP,2017-12-25 17:34:11,2017-12-25 17:34:11,check if the product was shaked,process activity,clerk,1c,product,708p,2229
+708CP,2017-12-25 18:00:11,2017-12-25 18:00:11,Product Delivered,process activity,clerk,1c,product,708p,2244
+79CP,2017-12-25 18:01:11,2017-12-25 18:01:11,check if the product was shaked,process activity,clerk,1c,product,79p,2245
+564CP,2017-12-25 17:37:11,2017-12-25 18:04:11,Request product,process activity,clerk,1c,product,564p,2233
+564CP,2017-12-25 18:05:11,2017-12-25 18:05:11,Assgin robot,process activity,robot,17r,shelf,19s,2251
+79CP,2017-12-25 18:14:11,2017-12-25 18:14:11,Product Delivered,process activity,clerk,1c,product,79p,2259
+387CP,2017-12-25 18:16:11,2017-12-25 18:16:11,check if the product was shaked,process activity,clerk,1c,product,387p,2262
+312CP,2017-12-25 18:15:11,2017-12-25 18:23:11,Request product,process activity,clerk,1c,product,312p,2261
+312CP,2017-12-25 18:23:11,2017-12-25 18:23:11,Assgin robot,process activity,robot,21r,shelf,22s,2266
+71CP,2017-12-25 18:04:11,2017-12-25 18:29:11,Request product,process activity,clerk,1c,product,71p,2249
+71CP,2017-12-25 18:29:11,2017-12-25 18:29:11,Assgin robot,process activity,robot,2r,shelf,22s,2270
+387CP,2017-12-25 18:39:11,2017-12-25 18:39:11,Product Delivered,process activity,clerk,1c,product,387p,2278
+654CP,2017-12-25 18:40:11,2017-12-25 18:40:11,check if the product was shaked,process activity,clerk,1c,product,654p,2279
+654CP,2017-12-25 18:59:11,2017-12-25 18:59:11,Product Delivered,process activity,clerk,1c,product,654p,2290
+483CP,2017-12-25 18:59:11,2017-12-25 18:59:11,check if the product was shaked,process activity,clerk,1c,product,483p,2291
+548CP,2017-12-25 18:40:11,2017-12-25 19:01:11,Request product,process activity,clerk,1c,product,548p,2281
+548CP,2017-12-25 19:02:11,2017-12-25 19:02:11,Assgin robot,process activity,robot,10r,shelf,39s,2296
+696CP,2017-12-25 19:00:11,2017-12-25 19:16:11,Request product,process activity,clerk,1c,product,696p,2294
+696CP,2017-12-25 19:16:11,2017-12-25 19:16:11,Assgin robot,process activity,robot,19r,shelf,20s,2301
+483CP,2017-12-25 19:20:11,2017-12-25 19:20:11,Product Delivered,process activity,clerk,1c,product,483p,2307
+232CP,2017-12-25 19:20:11,2017-12-25 19:20:11,check if the product was shaked,process activity,clerk,1c,product,232p,2308
+197CP,2017-12-25 19:21:11,2017-12-25 19:45:11,Request product,process activity,clerk,1c,product,197p,2310
+197CP,2017-12-25 19:46:11,2017-12-25 19:46:11,Assgin robot,process activity,robot,15r,shelf,6s,2322
+232CP,2017-12-25 19:46:11,2017-12-25 19:46:11,Product Delivered,process activity,clerk,1c,product,232p,2323
+355CP,2017-12-25 19:47:11,2017-12-25 19:47:11,check if the product was shaked,process activity,clerk,1c,product,355p,2325
+355CP,2017-12-25 19:58:11,2017-12-25 19:58:11,Product Delivered,process activity,clerk,1c,product,355p,2332
+246CP,2017-12-25 19:59:11,2017-12-25 19:59:11,check if the product was shaked,process activity,clerk,1c,product,246p,2333
+246CP,2017-12-25 20:14:11,2017-12-25 20:14:11,Product Delivered,process activity,clerk,1c,product,246p,2347
+172CP,2017-12-25 20:15:11,2017-12-25 20:15:11,check if the product was shaked,process activity,clerk,1c,product,172p,2348
+673CP,2017-12-25 20:00:11,2017-12-25 20:22:11,Request product,process activity,clerk,1c,product,673p,2335
+673CP,2017-12-25 20:23:11,2017-12-25 20:23:11,Assgin robot,process activity,robot,5r,shelf,14s,2352
+172CP,2017-12-25 20:30:11,2017-12-25 20:30:11,Product Delivered,process activity,clerk,1c,product,172p,2358
+327CP,2017-12-25 20:31:11,2017-12-25 20:31:11,check if the product was shaked,process activity,clerk,1c,product,327p,2359
+736CP,2017-12-25 20:16:11,2017-12-25 20:36:11,Request product,process activity,clerk,1c,product,736p,2350
+736CP,2017-12-25 20:36:11,2017-12-25 20:36:11,Assgin robot,process activity,robot,16r,shelf,37s,2365
+327CP,2017-12-25 20:47:11,2017-12-25 20:47:11,Product Delivered,process activity,clerk,1c,product,327p,2375
+655CP,2017-12-25 20:48:11,2017-12-25 20:48:11,check if the product was shaked,process activity,clerk,1c,product,655p,2376
+42CP,2017-12-25 20:49:11,2017-12-25 20:53:11,Request product,process activity,clerk,1c,product,42p,2378
+42CP,2017-12-25 20:54:11,2017-12-25 20:54:11,Assgin robot,process activity,robot,23r,shelf,4s,2382
+655CP,2017-12-25 21:01:11,2017-12-25 21:01:11,Product Delivered,process activity,clerk,1c,product,655p,2389
+295CP,2017-12-25 21:02:11,2017-12-25 21:02:11,check if the product was shaked,process activity,clerk,1c,product,295p,2390
+295CP,2017-12-25 21:27:11,2017-12-25 21:27:11,Product Delivered,process activity,clerk,1c,product,295p,2400
+639CP,2017-12-25 21:28:11,2017-12-25 21:28:11,check if the product was shaked,process activity,clerk,1c,product,639p,2402
+791CP,2017-12-25 21:28:11,2017-12-25 21:40:11,Request product,process activity,clerk,1c,product,791p,2401
+791CP,2017-12-25 21:40:11,2017-12-25 21:40:11,Assgin robot,process activity,robot,20r,shelf,14s,2405
+639CP,2017-12-25 21:47:11,2017-12-25 21:47:11,Product Delivered,process activity,clerk,1c,product,639p,2406
+0CP,2017-12-25 21:47:11,2017-12-25 21:47:11,check if the product was shaked,process activity,clerk,1c,product,0p,2407
+0CP,2017-12-25 21:59:11,2017-12-25 21:59:11,Product Delivered,process activity,clerk,1c,product,0p,2411
+437CP,2017-12-25 21:59:11,2017-12-25 21:59:11,check if the product was shaked,process activity,clerk,1c,product,437p,2412
+767CP,2017-12-25 21:48:11,2017-12-25 22:10:11,Request product,process activity,clerk,1c,product,767p,2409
+767CP,2017-12-25 22:10:11,2017-12-25 22:10:11,Assgin robot,process activity,robot,24r,shelf,15s,2416
+5CP,2017-12-25 22:00:11,2017-12-25 22:10:11,Request product,process activity,clerk,1c,product,5p,2414
+5CP,2017-12-25 22:11:11,2017-12-25 22:11:11,Assgin robot,process activity,robot,13r,shelf,27s,2417
+437CP,2017-12-25 22:12:11,2017-12-25 22:12:11,Product Delivered,process activity,clerk,1c,product,437p,2419
+34CP,2017-12-25 22:12:11,2017-12-25 22:12:11,check if the product was shaked,process activity,clerk,1c,product,34p,2420
+34CP,2017-12-25 22:20:11,2017-12-25 22:20:11,Product Delivered,process activity,clerk,1c,product,34p,2426
+528CP,2017-12-25 22:22:11,2017-12-25 22:22:11,check if the product was shaked,process activity,clerk,1c,product,528p,2429
+146CP,2017-12-25 22:21:11,2017-12-25 22:25:11,Request product,process activity,clerk,1c,product,146p,2428
+146CP,2017-12-25 22:26:11,2017-12-25 22:26:11,Assgin robot,process activity,robot,4r,shelf,19s,2431
+11CP,2017-12-25 22:14:11,2017-12-25 22:26:11,Request product,process activity,clerk,1c,product,11p,2423
+11CP,2017-12-25 22:26:11,2017-12-25 22:26:11,Assgin robot,process activity,robot,9r,shelf,6s,2432
+528CP,2017-12-25 22:32:11,2017-12-25 22:32:11,Product Delivered,process activity,clerk,1c,product,528p,2436
+787CP,2017-12-25 22:33:11,2017-12-25 22:33:11,check if the product was shaked,process activity,clerk,1c,product,787p,2438
+427CP,2017-12-25 22:35:11,2017-12-25 22:56:11,Request product,process activity,clerk,1c,product,427p,2441
+427CP,2017-12-25 22:56:11,2017-12-25 22:56:11,Assgin robot,process activity,robot,6r,shelf,24s,2461
+787CP,2017-12-25 22:59:11,2017-12-25 22:59:11,Product Delivered,process activity,clerk,1c,product,787p,2464
+185CP,2017-12-25 23:00:11,2017-12-25 23:00:11,check if the product was shaked,process activity,clerk,1c,product,185p,2465
+185CP,2017-12-25 23:09:11,2017-12-25 23:09:11,Product Delivered,process activity,clerk,1c,product,185p,2475
+331CP,2017-12-25 23:10:11,2017-12-25 23:10:11,check if the product was shaked,process activity,clerk,1c,product,331p,2477
+373CP,2017-12-25 23:10:11,2017-12-25 23:35:11,Request product,process activity,clerk,1c,product,373p,2476
+373CP,2017-12-25 23:35:11,2017-12-25 23:35:11,Assgin robot,process activity,robot,7r,shelf,28s,2490
+331CP,2017-12-25 23:36:11,2017-12-25 23:36:11,Product Delivered,process activity,clerk,1c,product,331p,2491
+522CP,2017-12-25 23:39:11,2017-12-25 23:39:11,check if the product was shaked,process activity,clerk,1c,product,522p,2496
+522CP,2017-12-25 23:54:11,2017-12-25 23:54:11,Product Delivered,process activity,clerk,1c,product,522p,2503
+229CP,2017-12-25 23:54:11,2017-12-25 23:55:11,check if the product was shaked,process activity,clerk,1c,product,229p,2505
+124CP,2017-12-25 23:39:11,2017-12-26 00:01:11,Request product,process activity,clerk,1c,product,124p,2495
+124CP,2017-12-26 00:02:11,2017-12-26 00:02:11,Assgin robot,process activity,robot,12r,shelf,25s,2508
+229CP,2017-12-26 00:11:11,2017-12-26 00:11:11,Product Delivered,process activity,clerk,1c,product,229p,2516
+197CP,2017-12-26 00:12:11,2017-12-26 00:12:11,check if the product was shaked,process activity,clerk,1c,product,197p,2519
+197CP,2017-12-26 00:34:11,2017-12-26 00:34:11,Product Delivered,process activity,clerk,1c,product,197p,2534
+390CP,2017-12-26 00:35:11,2017-12-26 00:35:11,check if the product was shaked,process activity,clerk,1c,product,390p,2536
+764CP,2017-12-26 00:35:11,2017-12-26 00:47:11,Request product,process activity,clerk,1c,product,764p,2535
+764CP,2017-12-26 00:47:11,2017-12-26 00:47:11,Assgin robot,process activity,robot,15r,shelf,19s,2541
+390CP,2017-12-26 01:01:11,2017-12-26 01:01:11,Product Delivered,process activity,clerk,1c,product,390p,2557
+266CP,2017-12-26 01:02:11,2017-12-26 01:02:11,check if the product was shaked,process activity,clerk,1c,product,266p,2558
+266CP,2017-12-26 01:16:11,2017-12-26 01:16:11,Product Delivered,process activity,clerk,1c,product,266p,2567
+564CP,2017-12-26 01:17:11,2017-12-26 01:17:11,check if the product was shaked,process activity,clerk,1c,product,564p,2569
+685CP,2017-12-26 01:02:11,2017-12-26 01:21:11,Request product,process activity,clerk,1c,product,685p,2559
+685CP,2017-12-26 01:22:11,2017-12-26 01:22:11,Assgin robot,process activity,robot,22r,shelf,9s,2574
+564CP,2017-12-26 01:33:11,2017-12-26 01:34:11,Product Delivered,process activity,clerk,1c,product,564p,2578
+312CP,2017-12-26 01:34:11,2017-12-26 01:34:11,check if the product was shaked,process activity,clerk,1c,product,312p,2579
+586CP,2017-12-26 01:35:11,2017-12-26 01:55:11,Request product,process activity,clerk,1c,product,586p,2581
+586CP,2017-12-26 01:55:11,2017-12-26 01:55:11,Assgin robot,process activity,robot,17r,shelf,27s,2586
+312CP,2017-12-26 01:58:11,2017-12-26 01:58:11,Product Delivered,process activity,clerk,1c,product,312p,2589
+548CP,2017-12-26 01:59:11,2017-12-26 01:59:11,check if the product was shaked,process activity,clerk,1c,product,548p,2590
+548CP,2017-12-26 02:08:11,2017-12-26 02:08:11,Product Delivered,process activity,clerk,1c,product,548p,2600
+696CP,2017-12-26 02:09:11,2017-12-26 02:09:11,check if the product was shaked,process activity,clerk,1c,product,696p,2602
+565CP,2017-12-26 02:08:11,2017-12-26 02:16:11,Request product,process activity,clerk,1c,product,565p,2601
+565CP,2017-12-26 02:17:11,2017-12-26 02:17:11,Assgin robot,process activity,robot,10r,shelf,3s,2605
+696CP,2017-12-26 02:30:11,2017-12-26 02:30:11,Product Delivered,process activity,clerk,1c,product,696p,2610
+71CP,2017-12-26 02:30:11,2017-12-26 02:30:11,check if the product was shaked,process activity,clerk,1c,product,71p,2611
+71CP,2017-12-26 02:42:11,2017-12-26 02:42:11,Product Delivered,process activity,clerk,1c,product,71p,2622
+673CP,2017-12-26 02:43:11,2017-12-26 02:43:11,check if the product was shaked,process activity,clerk,1c,product,673p,2623
+418CP,2017-12-26 02:31:11,2017-12-26 02:53:11,Request product,process activity,clerk,1c,product,418p,2613
+418CP,2017-12-26 02:54:11,2017-12-26 02:54:11,Assgin robot,process activity,robot,19r,shelf,37s,2627
+673CP,2017-12-26 03:01:11,2017-12-26 03:01:11,Product Delivered,process activity,clerk,1c,product,673p,2629
+42CP,2017-12-26 03:01:11,2017-12-26 03:01:11,check if the product was shaked,process activity,clerk,1c,product,42p,2630
+42CP,2017-12-26 03:10:11,2017-12-26 03:10:11,Product Delivered,process activity,clerk,1c,product,42p,2633
+146CP,2017-12-26 03:11:11,2017-12-26 03:11:11,check if the product was shaked,process activity,clerk,1c,product,146p,2635
+66CP,2017-12-26 03:10:11,2017-12-26 03:14:11,Request product,process activity,clerk,1c,product,66p,2634
+66CP,2017-12-26 03:14:11,2017-12-26 03:14:11,Assgin robot,process activity,robot,23r,shelf,0s,2640
+146CP,2017-12-26 03:31:11,2017-12-26 03:31:11,Product Delivered,process activity,clerk,1c,product,146p,2651
+5CP,2017-12-26 03:32:11,2017-12-26 03:32:11,check if the product was shaked,process activity,clerk,1c,product,5p,2652
+5CP,2017-12-26 03:46:11,2017-12-26 03:46:11,Product Delivered,process activity,clerk,1c,product,5p,2659
+767CP,2017-12-26 03:47:11,2017-12-26 03:47:11,check if the product was shaked,process activity,clerk,1c,product,767p,2661
+494CP,2017-12-26 03:47:11,2017-12-26 03:57:11,Request product,process activity,clerk,1c,product,494p,2660
+494CP,2017-12-26 03:58:11,2017-12-26 03:58:11,Assgin robot,process activity,robot,13r,shelf,30s,2670
+767CP,2017-12-26 04:03:11,2017-12-26 04:03:11,Product Delivered,process activity,clerk,1c,product,767p,2672
+736CP,2017-12-26 04:03:11,2017-12-26 04:03:11,check if the product was shaked,process activity,clerk,1c,product,736p,2673
+228CP,2017-12-26 04:04:11,2017-12-26 04:19:11,Request product,process activity,clerk,1c,product,228p,2675
+228CP,2017-12-26 04:19:11,2017-12-26 04:19:11,Assgin robot,process activity,robot,24r,shelf,39s,2683
+736CP,2017-12-26 04:24:11,2017-12-26 04:24:11,Product Delivered,process activity,clerk,1c,product,736p,2688
+427CP,2017-12-26 04:24:11,2017-12-26 04:24:11,check if the product was shaked,process activity,clerk,1c,product,427p,2689
+102CP,2017-12-26 04:25:11,2017-12-26 04:43:11,Request product,process activity,clerk,1c,product,102p,2691
+102CP,2017-12-26 04:43:11,2017-12-26 04:43:11,Assgin robot,process activity,robot,16r,shelf,19s,2700
+427CP,2017-12-26 04:48:11,2017-12-26 04:48:11,Product Delivered,process activity,clerk,1c,product,427p,2706
+373CP,2017-12-26 04:48:11,2017-12-26 04:48:11,check if the product was shaked,process activity,clerk,1c,product,373p,2707
+373CP,2017-12-26 05:07:11,2017-12-26 05:07:11,Product Delivered,process activity,clerk,1c,product,373p,2715
+19CP,2017-12-26 04:49:11,2017-12-26 05:07:11,Request product,process activity,clerk,1c,product,19p,2709
+19CP,2017-12-26 05:08:11,2017-12-26 05:08:11,Assgin robot,process activity,robot,6r,shelf,11s,2716
+124CP,2017-12-26 05:09:11,2017-12-26 05:09:11,check if the product was shaked,process activity,clerk,1c,product,124p,2717
+124CP,2017-12-26 05:23:11,2017-12-26 05:23:11,Product Delivered,process activity,clerk,1c,product,124p,2729
+791CP,2017-12-26 05:24:11,2017-12-26 05:24:11,check if the product was shaked,process activity,clerk,1c,product,791p,2732
+495CP,2017-12-26 05:24:11,2017-12-26 05:29:11,Request product,process activity,clerk,1c,product,495p,2731
+495CP,2017-12-26 05:29:11,2017-12-26 05:29:11,Assgin robot,process activity,robot,12r,shelf,13s,2738
+791CP,2017-12-26 05:37:11,2017-12-26 05:37:11,Product Delivered,process activity,clerk,1c,product,791p,2743
+11CP,2017-12-26 05:37:11,2017-12-26 05:37:11,check if the product was shaked,process activity,clerk,1c,product,11p,2744
+11CP,2017-12-26 05:55:11,2017-12-26 05:56:11,Product Delivered,process activity,clerk,1c,product,11p,2757
+764CP,2017-12-26 05:56:11,2017-12-26 05:56:11,check if the product was shaked,process activity,clerk,1c,product,764p,2758
+764CP,2017-12-26 06:09:11,2017-12-26 06:09:11,Product Delivered,process activity,clerk,1c,product,764p,2761
+685CP,2017-12-26 06:10:11,2017-12-26 06:10:11,check if the product was shaked,process activity,clerk,1c,product,685p,2762
+685CP,2017-12-26 06:25:11,2017-12-26 06:25:11,Product Delivered,process activity,clerk,1c,product,685p,2765
+586CP,2017-12-26 06:26:11,2017-12-26 06:26:11,check if the product was shaked,process activity,clerk,1c,product,586p,2767
+586CP,2017-12-26 06:42:11,2017-12-26 06:42:11,Product Delivered,process activity,clerk,1c,product,586p,2770
+565CP,2017-12-26 06:43:11,2017-12-26 06:43:11,check if the product was shaked,process activity,clerk,1c,product,565p,2772
+463CP,2017-12-26 06:26:11,2017-12-26 06:45:11,Request product,process activity,clerk,1c,product,463p,2766
+463CP,2017-12-26 06:45:11,2017-12-26 06:45:11,Assgin robot,process activity,robot,22r,shelf,12s,2774
+565CP,2017-12-26 06:56:11,2017-12-26 06:56:11,Product Delivered,process activity,clerk,1c,product,565p,2778
+418CP,2017-12-26 06:57:11,2017-12-26 06:57:11,check if the product was shaked,process activity,clerk,1c,product,418p,2779
+481CP,2017-12-26 06:42:11,2017-12-26 06:59:11,Request product,process activity,clerk,1c,product,481p,2771
+481CP,2017-12-26 07:00:11,2017-12-26 07:00:11,Assgin robot,process activity,robot,17r,shelf,6s,2781
+418CP,2017-12-26 07:20:11,2017-12-26 07:20:11,Product Delivered,process activity,clerk,1c,product,418p,2792
+66CP,2017-12-26 07:20:11,2017-12-26 07:20:11,check if the product was shaked,process activity,clerk,1c,product,66p,2793
+441CP,2017-12-26 07:22:11,2017-12-26 07:31:11,Request product,process activity,clerk,1c,product,441p,2796
+441CP,2017-12-26 07:31:11,2017-12-26 07:31:11,Assgin robot,process activity,robot,19r,shelf,29s,2804
+66CP,2017-12-26 07:47:11,2017-12-26 07:47:11,Product Delivered,process activity,clerk,1c,product,66p,2813
+494CP,2017-12-26 07:48:11,2017-12-26 07:48:11,check if the product was shaked,process activity,clerk,1c,product,494p,2814
+494CP,2017-12-26 08:11:11,2017-12-26 08:11:11,Product Delivered,process activity,clerk,1c,product,494p,2819
+228CP,2017-12-26 08:12:11,2017-12-26 08:12:11,check if the product was shaked,process activity,clerk,1c,product,228p,2820
+228CP,2017-12-26 08:32:11,2017-12-26 08:32:11,Product Delivered,process activity,clerk,1c,product,228p,2828
+102CP,2017-12-26 08:33:11,2017-12-26 08:33:11,check if the product was shaked,process activity,clerk,1c,product,102p,2829
+102CP,2017-12-26 08:50:11,2017-12-26 08:50:11,Product Delivered,process activity,clerk,1c,product,102p,2832
+19CP,2017-12-26 08:51:11,2017-12-26 08:51:11,check if the product was shaked,process activity,clerk,1c,product,19p,2833
+511CP,2017-12-26 08:52:11,2017-12-26 09:03:11,Request product,process activity,clerk,1c,product,511p,2835
+511CP,2017-12-26 09:03:11,2017-12-26 09:03:11,Assgin robot,process activity,robot,16r,shelf,34s,2837
+19CP,2017-12-26 09:06:11,2017-12-26 09:06:11,Product Delivered,process activity,clerk,1c,product,19p,2839
+495CP,2017-12-26 09:07:11,2017-12-26 09:07:11,check if the product was shaked,process activity,clerk,1c,product,495p,2840
+495CP,2017-12-26 09:28:11,2017-12-26 09:28:11,Product Delivered,process activity,clerk,1c,product,495p,2848
+481CP,2017-12-26 09:29:11,2017-12-26 09:29:11,check if the product was shaked,process activity,clerk,1c,product,481p,2849
+481CP,2017-12-26 09:55:11,2017-12-26 09:55:11,Product Delivered,process activity,clerk,1c,product,481p,2857
+463CP,2017-12-26 09:55:11,2017-12-26 09:55:11,check if the product was shaked,process activity,clerk,1c,product,463p,2858
+463CP,2017-12-26 10:12:11,2017-12-26 10:12:11,Product Delivered,process activity,clerk,1c,product,463p,2861
+441CP,2017-12-26 10:12:11,2017-12-26 10:12:11,check if the product was shaked,process activity,clerk,1c,product,441p,2862
+441CP,2017-12-26 10:30:11,2017-12-26 10:30:11,Product Delivered,process activity,clerk,1c,product,441p,2866
+511CP,2017-12-26 10:30:11,2017-12-26 10:30:11,check if the product was shaked,process activity,clerk,1c,product,511p,2867
+405CP,2017-12-26 10:31:11,2017-12-26 10:37:11,Request product,process activity,clerk,1c,product,405p,2869
+405CP,2017-12-26 10:38:11,2017-12-26 10:38:11,Assgin robot,process activity,robot,19r,shelf,38s,2871
+491CP,2017-12-26 10:13:11,2017-12-26 10:38:11,Request product,process activity,clerk,1c,product,491p,2864
+491CP,2017-12-26 10:39:11,2017-12-26 10:39:11,Assgin robot,process activity,robot,22r,shelf,6s,2873
