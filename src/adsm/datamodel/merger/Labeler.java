@@ -20,7 +20,7 @@ public class Labeler {
     	all.add(startTimeIndex);
     	all.add(endTimeIndex);
     
-    	all.addAll(OtherAttributes); /// otherattributes added in this version
+    	all.addAll(OtherAttributes); 
   
     	
     	return all ;
