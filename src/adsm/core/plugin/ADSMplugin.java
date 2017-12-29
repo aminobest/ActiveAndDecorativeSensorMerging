@@ -46,13 +46,30 @@ public class ADSMplugin {
 
 		GlobalParameters gp = new GlobalParameters(files);
 
-		ParametersPrompt parameters = new ParametersPrompt(gp, context);
+		ParametersPrompt parameters = null ;
 
+		boolean processflag = false ;
+		
+		int trials = 0 ;
+		boolean retry = false ;
+		do {
+	    if(trials!=0) retry = true ;
+	    parameters = new ParametersPrompt(gp, context,retry);
 		InteractionResult result = context.showConfiguration("Merging and Mapping Parameters", parameters);
 		if (result.equals(InteractionResult.CANCEL)) {
 			context.getFutureResult(0).cancel(true);
 		}
 		if (result.equals(InteractionResult.CONTINUE)) {
+			processflag = true ;
+		}
+		trials++;
+		}while(!areFieldsfilled(gp));
+		
+		
+		
+		if(processflag){
+			
+			
 
 			/*
 			 * test output
@@ -192,4 +209,57 @@ public class ADSMplugin {
 
 		return mergedlogcsv;
 	}
+	
+	
+	public boolean areFieldsfilled(GlobalParameters gp){
+		
+		boolean result = true ;
+		
+		
+		if(gp.getMainlogfile()!=null && gp.getSimilarityfunction()!=null ){
+			
+			for(FileParameters ff : gp.getFiles()){
+			
+			if(ff.getType()==null) {
+				return false ;
+			}
+				
+			else if(ff.getType().equals("Event Log")) {
+				
+				if(ff.getSelectionRatio()==null || ff.getCaseIdIndex()==null || ff.getStarttimeIndex()==null || ff.getEndttimeIndex()==null  ){
+					return false ;
+				}
+				
+			}
+			
+			else if(ff.getType().equals("Active Sensor Log")){
+				
+				if(ff.getSelectionRatio()==null  || ff.getStarttimeIndex()==null) {
+					return false ;
+				}
+				
+			}
+			
+			else if(ff.getType().equals("Decorative Sensor Log")){
+				
+				if(ff.getMarking()==null || ff.getContinousattr()==null || ff.getDiscreteattr()==null )	{
+					return false ;
+					
+				}
+				
+			}
+			
+				
+			}
+			
+		}
+		else {
+			return false ;
+		}
+		
+		
+		return result ;
+		
+	}
+	
 }

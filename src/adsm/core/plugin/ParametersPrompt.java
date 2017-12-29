@@ -13,7 +13,9 @@ import java.util.HashMap;
 import javax.swing.DefaultComboBoxModel;
 import javax.swing.JButton;
 import javax.swing.JComboBox;
+import javax.swing.JFrame;
 import javax.swing.JLabel;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JSlider;
 import javax.swing.JTextField;
@@ -69,6 +71,7 @@ public class ParametersPrompt extends JPanel {
 		private JLabel typelabel = new JLabel("Type:");
 		private JSlider selectionratiosliderinput = new JSlider(0, 10000, 9000);
 		
+		
 		private JLabel dsdimlabel = new JLabel("Discrete Dimension Attr. Indexes*:");
 		private JLabel contdimlabel = new JLabel("Continuous Dimension Attr. Indexes*:");
 		private JLabel lblUseTo = new JLabel("* Use comma (,) to separate attribute indexes");
@@ -79,6 +82,10 @@ public class ParametersPrompt extends JPanel {
 		private JLabel endtimeindexlabel = new JLabel("End Time Index:");
 		private JButton infercaseid = new JButton("Infer Case Id");
 		private JLabel slidervalue = new JLabel("1.0");
+		
+		
+		private boolean retry ;
+		
 		private HashMap<String, Integer> types = new HashMap<String, Integer>(){
 			{
 				put("Select",0);
@@ -90,10 +97,11 @@ public class ParametersPrompt extends JPanel {
 		
 		UIPluginContext context = null ;
 		
-		public ParametersPrompt(GlobalParameters gp, UIPluginContext context) {
+		public ParametersPrompt(GlobalParameters gp, UIPluginContext context,boolean retry) {
 			
 			this.gp = gp ;
 			this.context = context ;
+			this.retry = retry ;
 		
 			
 //			// Add fake classifier for parameters panel post-view
@@ -157,9 +165,19 @@ public class ParametersPrompt extends JPanel {
 			globalparamspanel.setBounds(16, 6, 697, 133);
 			globalparamspanel.setLayout(null);
 //			globalparamspanel.setBackground(this.getBackground());
+	
 			globalparamslabel.setFont(new Font("Lucida Grande", Font.PLAIN, 16));
 			globalparamslabel.setBounds(42, 26, 154, 16);
+	
+	
+			if(retry){
+				 JOptionPane.showMessageDialog(new JFrame(), "Some fields are missing, please fill in the missing fields!", "Error",
+					        JOptionPane.ERROR_MESSAGE);
+			}
+			
 			globalparamspanel.add(globalparamslabel);
+			
+			
 			
 //			dateformatlabel.setBounds(68, 71, 120, 16);
 
@@ -323,14 +341,16 @@ public class ParametersPrompt extends JPanel {
 								} 
 								else {
 									slidervalue.setVisible(true);
+									
 								}
 								
 							}
 							else if(f.getType()==null) {
 								typeinput.setSelectedIndex(0);
+								
 							}
 							
-							if(f.getSelectionRatio()!=null){
+							if(f.getSelectionRatio()!=null && !typeinput.getSelectedItem().equals("Decorative Sensor Log")){
 								selectionratiosliderinput.setValue(Integer.valueOf(f.getSelectionRatio().replace(".", "")));
 							}
 							else if(f.getSelectionRatio()==null){
@@ -410,6 +430,7 @@ public class ParametersPrompt extends JPanel {
 						slidervalue.setVisible(false);
 						markinglabel.setVisible(true);
 						markinginput.setVisible(true);
+						slidervalue.setVisible(false);
 						
 					}
 					else {
@@ -420,6 +441,7 @@ public class ParametersPrompt extends JPanel {
 						slidervalue.setVisible(true);
 						markinglabel.setVisible(false);
 						markinginput.setVisible(false);
+						slidervalue.setVisible(true);
 						
 						if(typeinput.getSelectedItem().toString().equals("Active Sensor Log")){
 							caseidindexlabel.setVisible(false);

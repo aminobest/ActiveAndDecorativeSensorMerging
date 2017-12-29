@@ -22,3 +22,5 @@ done
 
 java -version
 java -classpath ${CP} -da -Djava.library.path=${LIBDIR} -Djava.util.Arrays.useLegacyMergeSort=true -Xmx4G -XX:MaxPermSize=256m -DsuppressSwingDropSupport=false ${MAIN}
+
+
