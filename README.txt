@@ -1,6 +1,6 @@
 !!!!!! IMPORTANT: !!!!!!!!!
 
-USE “git lfs clone  https://github.com/aminobest/ActiveAndDecorativeSensorMerging.git” to clone the repository to your workspace. 
+Use “git lfs clone  https://github.com/aminobest/ActiveAndDecorativeSensorMerging.git” to clone the repository to your workspace. 
 
 The repository contains files uploaded on git lfs.
 
