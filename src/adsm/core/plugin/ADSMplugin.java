@@ -51,6 +51,7 @@ public class ADSMplugin {
 		boolean processflag = false ;
 		
 		int trials = 0 ;
+		boolean cancel = false ;
 		boolean retry = false ;
 		do {
 	    if(trials!=0) retry = true ;
@@ -58,12 +59,14 @@ public class ADSMplugin {
 		InteractionResult result = context.showConfiguration("Merging and Mapping Parameters", parameters);
 		if (result.equals(InteractionResult.CANCEL)) {
 			context.getFutureResult(0).cancel(true);
+			cancel = true ;
+			
 		}
 		if (result.equals(InteractionResult.CONTINUE)) {
 			processflag = true ;
 		}
 		trials++;
-		}while(!areFieldsfilled(gp));
+		}while(!areFieldsfilled(gp) && !cancel);
 		
 		
 		
