@@ -14,7 +14,7 @@ http://www.apache.org/dist/ant/ivyde/updatesite/
 
 https://dl.bintray.com/subclipse/releases/subclipse/latest/
 
-2. A Jar Runnable version of ProM with ADSM plugin can be executed from runProMwithADSM.sh
+2. A Jar Runnable version of ProM with ADSM plugin can be executed from runProMwithADSM.sh (Test Data set available at https://github.com/aminobest/ActiveAndDecorativeSensorMerging/tree/master/ADSM%20evaluation/100cases/100casesR4)
 
 3. The folder "ADSM evaluation/" contains the material used to evaluate the ADSM approach. 
 
