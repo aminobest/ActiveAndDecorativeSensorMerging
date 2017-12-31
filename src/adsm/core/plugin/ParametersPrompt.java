@@ -155,6 +155,7 @@ public class ParametersPrompt extends JPanel {
 			endtimeindexinput.setBackground(Color.LIGHT_GRAY);
 			starttimeindexinput.setBackground(Color.LIGHT_GRAY);
 			markinginput.setBackground(Color.LIGHT_GRAY);
+			selectionratiosliderinput.setBackground(Color.gray);
 		   
 			// properties
 			this.globalparamspanel = factory.createRoundedPanel(60, Color.gray);
@@ -278,7 +279,7 @@ public class ParametersPrompt extends JPanel {
 			starttimeindexinput.setColumns(10);
 			eventactivepanel.add(endtimeindexlabel);
 			endtimeindexlabel.setFont(new Font("Lucida Grande", Font.PLAIN, 13));
-			starttimeindexlabel.setBounds(30, 17, 107, 16);
+			starttimeindexlabel.setBounds(30, 17, 200, 16);
 			starttimeindexinput.setBounds(301, 15, 61, 26);
 			endtimeindexlabel.setBounds(30, 47, 107, 16);
 			endtimeindexinput.setBounds(301, 45, 61, 26);
