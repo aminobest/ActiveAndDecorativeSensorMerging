@@ -1,4 +1,10 @@
+!!!!!! IMPORTANT: !!!!!!!!
 
+USE “git lfs clone  https://github.com/aminobest/ActiveAndDecorativeSensorMerging.git” to clone the repository to your workspace. 
+
+The repository contains files uploaded on git lfs.
+
+_________________________________________________
 
 The Active and Decorative Sensor Mapping (ADSM) plugin is part of the thesis project entitled ”Exploring Process Mining in IoT Environments”, written by Amine Abbad Andaloussi At DTU Compute.
 
