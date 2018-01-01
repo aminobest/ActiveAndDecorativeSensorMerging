@@ -8,7 +8,7 @@ _________________________________________________
 
 The Active and Decorative Sensor Mapping (ADSM) plugin is part of the thesis project entitled ”Exploring Process Mining in IoT Environments”, written by Amine Abbad Andaloussi At DTU Compute.
 
-1.To import this project to eclipse the following dependencies are required:
+1.To import this project to eclipse the following eclipse plugins are required:
 
 http://www.apache.org/dist/ant/ivyde/updatesite/
 
@@ -30,7 +30,7 @@ The XES file can be imported to ProM and used by other ProM plugins.
 
 5. The folder "ADSM ICI evaluation/" contains the material used to evaluate the ICI approach.
 
-5.1 The folder "ICI evaluation/eventsLogsWithTop1000events/" contains the event logs used to evaluate the ICI appraoch.
+5.1 The folder "ICI evaluation/eventsLogsWithTop1000events/" contains the event logs used to evaluate the ICI approach.
 
 5.2 The Folder "/ICI evaluation/executabe JAR/" contains a Runnable Jar file of the ICI plugin used for the evaluation.
 The jar can be executed from the Shell Script File "ICI evaluation/executabe JAR/executeCaseId.sh".
